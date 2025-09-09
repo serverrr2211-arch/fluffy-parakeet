@@ -1899,3 +1899,28 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [09Sep2025 21:35:06.317] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -845,67,-374,minecraft:overworld as filled
 [09Sep2025 21:35:08.067] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -845,67,-375,minecraft:overworld as filled
 [09Sep2025 21:35:14.322] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:35:35.027] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -851,69,-372,minecraft:overworld as filled
+[09Sep2025 21:35:35.071] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:35:36.983] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -854,68,-371,minecraft:overworld as filled
+[09Sep2025 21:35:40.307] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -858,68,-370,minecraft:overworld as filled
+[09Sep2025 21:35:44.780] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -860,70,-368,minecraft:overworld as filled
+[09Sep2025 21:35:50.767] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -863,64,-373,minecraft:overworld as filled
+[09Sep2025 21:35:54.568] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -870,63,-370,minecraft:overworld as filled
+[09Sep2025 21:35:57.564] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -874,63,-368,minecraft:overworld as filled
+[09Sep2025 21:36:00.266] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -877,63,-367,minecraft:overworld as filled
+[09Sep2025 21:36:04.814] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -882,64,-366,minecraft:overworld as filled
+[09Sep2025 21:36:55.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2292, l='ServerLevel[world]', x=-1110.86, y=63.83, z=-418.43] died, message: 'Nitwit tried to swim in lava'
+[09Sep2025 21:36:55.762] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:37:19.413] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -888,64,-370,minecraft:overworld as filled
+[09Sep2025 21:37:22.166] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -891,64,-370,minecraft:overworld as filled
+[09Sep2025 21:37:25.012] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -894,65,-373,minecraft:overworld as filled
+[09Sep2025 21:37:27.115] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -897,65,-375,minecraft:overworld as filled
+[09Sep2025 21:37:29.864] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -899,65,-379,minecraft:overworld as filled
+[09Sep2025 21:37:32.414] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -899,65,-384,minecraft:overworld as filled
+[09Sep2025 21:37:34.564] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -899,65,-387,minecraft:overworld as filled
+[09Sep2025 21:39:26.362] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:39:31.613] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:40:35.909] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:40:37.560] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:40:40.810] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[09Sep2025 21:42:52.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro has made the advancement [Hot Stuff]
