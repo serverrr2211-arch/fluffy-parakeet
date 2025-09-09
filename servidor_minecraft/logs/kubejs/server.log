@@ -1,0 +1,100 @@
+[21:25:36] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:25:36] [INIT] Loaded plugins:
+[21:25:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:25:36] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[21:25:37] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[21:25:37] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.003 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.002 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.001 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.021 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.005 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.003 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/auto_playlist.js in 0.001 s
+[21:25:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/debate_dimension_tp.js in 0.002 s
+[21:25:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nodamage.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_farmland.js in 0.001 s
+[21:25:37] [INFO] Loaded script addonpack_mypowers:kubejs_scripts/nullvoid_portal.js in 0.002 s
+[21:25:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/receive_power_selected.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/key.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/camera.js in 0.0 s
+[21:25:37] [INFO] Loaded script addonpack_grave.core:kubejs_scripts/death_no_armour.js in 0.0 s
+[21:25:37] [INFO] Loaded 25/25 KubeJS server scripts in 0.065 s with 0 errors and 0 warnings
+[21:25:37] [INFO] Scripts loaded
+[21:25:39] [INFO] [minecraft:item] Found 564 tags, added 4 objects, removed 0 objects
+[21:25:39] [INFO] [minecraft:block] Found 412 tags, added 14 objects, removed 0 objects
+[21:25:41] [INFO] Server resource reload complete!
+[21:30:15] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:30:17] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:30:21] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:30:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:30:37] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:30:52] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:30:55] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:31:48] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:32:07] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:32:09] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:32:10] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:32:14] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:32:15] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:32:28] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -902,63,-390,minecraft:overworld as filled
+[21:32:30] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:32:31] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -898,64,-392,minecraft:overworld as filled
+[21:32:33] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -894,64,-391,minecraft:overworld as filled
+[21:33:15] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -897,64,-393,minecraft:overworld as filled
+[21:33:21] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -890,63,-395,minecraft:overworld as filled
+[21:33:23] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -886,63,-394,minecraft:overworld as filled
+[21:33:26] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -885,64,-399,minecraft:overworld as filled
+[21:33:29] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -882,64,-399,minecraft:overworld as filled
+[21:33:32] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -880,64,-400,minecraft:overworld as filled
+[21:33:34] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -878,64,-401,minecraft:overworld as filled
+[21:33:36] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -876,64,-401,minecraft:overworld as filled
+[21:33:38] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -874,63,-399,minecraft:overworld as filled
+[21:33:40] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -872,63,-401,minecraft:overworld as filled
+[21:33:43] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -870,63,-401,minecraft:overworld as filled
+[21:33:46] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -867,63,-402,minecraft:overworld as filled
+[21:33:48] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -865,64,-402,minecraft:overworld as filled
+[21:33:50] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -863,64,-403,minecraft:overworld as filled
+[21:33:51] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -863,64,-404,minecraft:overworld as filled
+[21:33:54] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -862,64,-405,minecraft:overworld as filled
+[21:33:57] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -864,64,-403,minecraft:overworld as filled
+[21:34:00] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:34:00] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -866,64,-403,minecraft:overworld as filled
+[21:34:02] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -863,63,-399,minecraft:overworld as filled
+[21:34:05] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -860,63,-398,minecraft:overworld as filled
+[21:34:08] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -857,63,-395,minecraft:overworld as filled
+[21:34:10] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -856,64,-394,minecraft:overworld as filled
+[21:34:11] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[21:34:12] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -855,64,-391,minecraft:overworld as filled
+[21:34:15] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -853,64,-389,minecraft:overworld as filled
+[21:34:17] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -853,65,-387,minecraft:overworld as filled
+[21:34:20] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -854,65,-386,minecraft:overworld as filled
+[21:34:22] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -854,65,-385,minecraft:overworld as filled
+[21:34:24] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -854,65,-384,minecraft:overworld as filled
+[21:34:26] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -854,64,-382,minecraft:overworld as filled
+[21:34:28] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -858,64,-383,minecraft:overworld as filled
+[21:34:30] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -859,64,-380,minecraft:overworld as filled
+[21:34:33] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -858,65,-378,minecraft:overworld as filled
+[21:34:36] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -857,66,-377,minecraft:overworld as filled
+[21:34:38] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -854,67,-377,minecraft:overworld as filled
+[21:34:44] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -853,68,-377,minecraft:overworld as filled
+[21:34:47] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -857,68,-376,minecraft:overworld as filled
+[21:34:50] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -855,68,-372,minecraft:overworld as filled
+[21:34:54] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -853,69,-374,minecraft:overworld as filled
+[21:34:56] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -851,69,-374,minecraft:overworld as filled
+[21:34:58] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -848,69,-372,minecraft:overworld as filled
+[21:35:00] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -846,69,-372,minecraft:overworld as filled
+[21:35:02] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -847,68,-373,minecraft:overworld as filled
+[21:35:04] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -845,68,-373,minecraft:overworld as filled
+[21:35:06] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -845,67,-374,minecraft:overworld as filled
+[21:35:08] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -845,67,-375,minecraft:overworld as filled
+[21:35:14] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
