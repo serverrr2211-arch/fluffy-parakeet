@@ -28,3 +28,53 @@
 [10Sep2025 00:00:17.094] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [10Sep2025 00:00:58.901] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [10Sep2025 00:01:41.397] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:03:54.142] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:03:54.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/2707, l='ServerLevel[world]', x=-883.71, y=-937.00, z=-382.66] died: Armor Sentinel was killed
+[10Sep2025 00:04:01.683] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:04:07.609] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:04:09.053] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:04:52.245] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:05:00.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro was boiled
+[10Sep2025 00:05:16.337] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:05:16.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/2900, l='ServerLevel[world]', x=-894.35, y=-936.00, z=-391.84] died: Armor Sentinel was killed
+[10Sep2025 00:05:29.189] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [webdisplays:packetsystem] rejected their client side version number
+[10Sep2025 00:05:29.189] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10Sep2025 00:05:29.202] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5332e9d3[id=<null>,name=Vheedand,properties={},legacy=false] (/127.154.92.121:41401) lost connection: Connection closed - mismatched mod channel list
+[10Sep2025 00:07:10.702] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Naxoxh7} (UUID 9740e10a-575e-3fcb-af15-70595940086a) created a screen at X: -884, Y: 63, Z: -392 of size 4x4
+[10Sep2025 00:07:18.623] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: http://youtube.com
+[10Sep2025 00:07:20.620] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:07:22.193] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:07:22.644] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:07:23.043] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:07:23.392] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:07:23.551] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:07:24.296] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:07:26.293] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:08:53.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:47717] logged in with entity id 3313 at (-647.524199750788, 67.0, -507.2364028633552)
+[10Sep2025 00:08:53.364] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[10Sep2025 00:08:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[10Sep2025 00:08:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[10Sep2025 00:08:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[10Sep2025 00:09:16.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand lost connection: Disconnected
+[10Sep2025 00:09:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand left the game
+[10Sep2025 00:09:25.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:57245] logged in with entity id 3686 at (-647.524199750788, 67.0, -507.2364028633552)
+[10Sep2025 00:09:25.222] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[10Sep2025 00:09:25.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[10Sep2025 00:09:25.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[10Sep2025 00:09:25.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[10Sep2025 00:09:25.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported Vheedand to aleepro]
+[10Sep2025 00:09:43.844] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:10:12.945] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:10:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> asdawd
+[10Sep2025 00:10:48.428] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Vheedand} (UUID ab6b154e-3f9a-390f-83f9-280c145f2250) created a screen at X: -884, Y: 63, Z: -392 of size 5x3
+[10Sep2025 00:11:26.645] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:12:14.637] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:12:14.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/4259, l='ServerLevel[world]', x=-888.46, y=-936.00, z=-398.09] died: Armor Sentinel was killed
+[10Sep2025 00:12:48.709] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:12:52.456] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:12:59.454] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:13:00.674] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:13:00.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Who You Gonna Call?]
+[10Sep2025 00:13:02.712] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[10Sep2025 00:13:26.300] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: mod://webdisplays/main.html
+[10Sep2025 00:13:36.198] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: http://youtube.com
