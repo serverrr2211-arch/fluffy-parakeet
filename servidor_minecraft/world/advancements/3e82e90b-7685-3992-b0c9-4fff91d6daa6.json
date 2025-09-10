@@ -3784,6 +3784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-09-10 00:34:23 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/misc/lead_flux_capacitor": {
     "criteria": {
       "has_lead_ingot": "2025-09-10 00:03:34 +0000"
@@ -3793,6 +3799,18 @@
   "palladium:recipes/misc/lead_circuit": {
     "criteria": {
       "has_lead_ingot": "2025-09-10 00:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-09-10 00:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-09-10 00:34:23 +0000"
     },
     "done": true
   },
