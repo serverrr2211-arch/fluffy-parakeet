@@ -75,6 +75,7 @@
       "minecraft:frozen_ocean": "2025-09-09 02:01:33 +0000",
       "minecraft:desert": "2025-09-11 01:37:47 +0000",
       "minecraft:jungle": "2025-09-11 02:55:51 +0000",
+      "minecraft:ocean": "2025-09-11 03:51:39 +0000",
       "minecraft:snowy_beach": "2025-09-09 02:00:31 +0000",
       "minecraft:warm_ocean": "2025-09-11 01:37:33 +0000",
       "minecraft:flower_forest": "2025-09-11 03:38:57 +0000",
@@ -5208,6 +5209,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-09-11 03:44:20 +0000"
     },
     "done": true
   },

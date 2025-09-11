@@ -7272,3 +7272,40 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [11Sep2025 03:42:08.268] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [11Sep2025 03:42:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 was burnt to a crisp whilst fighting Fire Dragon
 [11Sep2025 03:42:15.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to -2923.500000, 70.500000, 8594.500000]
+[11Sep2025 03:43:43.261] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:43:51.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to -3481.500000, 102.500000, 8012.500000]
+[11Sep2025 03:44:20.278] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:44:20.604] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:44:42.804] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:45:11.358] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:46:45.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 03:46:45.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 03:47:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to -2909.500000, 71.500000, 8587.500000]
+[11Sep2025 03:47:40.173] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:48:01.307] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:48:02.055] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:48:12.659] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:48:21.914] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:48:51.154] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:49:12.158] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:49:34.357] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:50:06.804] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:50:32.157] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[11Sep2025 03:50:32.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Set own game mode to Spectator Mode]
+[11Sep2025 03:51:41.431] [Worker-Main-1/DEBUG] [ModernFix/]: Structure iceandfire:village/savanna_scriber_1 is being run through DFU (hash 1aee738221b30ef94e77a84658532db39be9ef691660fd235b3a721f5414a198), this will cause launch time delays
+[11Sep2025 03:51:45.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 03:51:45.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 03:51:58.499] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_12
+[11Sep2025 03:51:59.996] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_22 is being run through DFU (hash a7afc0837fdc14b167ec6c4a39c103bb0f1eaa6db91b09c97bc3827ffa42ae09), this will cause launch time delays
+[11Sep2025 03:52:06.811] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[11Sep2025 03:52:06.832] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[11Sep2025 03:52:06.853] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_towers/bandit_towers_crossing_0 is being run through DFU (hash 682a9ab05e08fa7de0d130f2ce2efe446e2349880c4af076fd6477f2c4c874e7), this will cause launch time delays
+[11Sep2025 03:52:07.491] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:keep_kayra/keep_kayra_main_0 is being run through DFU (hash adaf93d65bc438dd5ad962fbe791a1e44f4e54fa8279dfc9b8fcae02d6813256), this will cause launch time delays
+[11Sep2025 03:52:13.556] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1 is being run through DFU (hash 37ef6f4972c94afb67d5a690a01f1306e3ef29e3a91f1596a36fe29f2f45d3aa), this will cause launch time delays
+[11Sep2025 03:52:13.586] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_3 is being run through DFU (hash c76dceff34aaab0a83862f3eabac184fb19827542ff2f267010aa8ef31a1bba2), this will cause launch time delays
+[11Sep2025 03:52:13.612] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[11Sep2025 03:52:13.718] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[11Sep2025 03:52:13.736] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[11Sep2025 03:52:13.740] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:ceryneian_hind/ceryneian_hind_part_1 is being run through DFU (hash 8d1e717f7f690c4ecf038323a31ea2af8a2b26e4aa1514c6368f1507f1d22106), this will cause launch time delays
+[11Sep2025 03:52:13.754] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[11Sep2025 03:52:13.762] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_0_main is being run through DFU (hash bd7c55b1bb12e5a2d02b6a73a0b73a37eeb9cb470d83c70382af9be9b4541214), this will cause launch time delays
