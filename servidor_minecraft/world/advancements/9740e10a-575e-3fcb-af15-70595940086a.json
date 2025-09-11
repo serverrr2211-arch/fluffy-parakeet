@@ -52,18 +52,22 @@
       "minecraft:taiga": "2025-09-10 01:00:29 +0000",
       "minecraft:frozen_river": "2025-09-09 01:59:44 +0000",
       "minecraft:cherry_grove": "2025-09-10 02:36:37 +0000",
+      "minecraft:sunflower_plains": "2025-09-11 03:40:31 +0000",
+      "minecraft:windswept_hills": "2025-09-11 03:38:36 +0000",
       "minecraft:bamboo_jungle": "2025-09-11 02:06:41 +0000",
       "minecraft:wooded_badlands": "2025-09-11 01:40:38 +0000",
       "minecraft:badlands": "2025-09-11 01:57:35 +0000",
       "minecraft:savanna_plateau": "2025-09-11 02:41:04 +0000",
       "minecraft:beach": "2025-09-09 02:07:59 +0000",
       "minecraft:stony_peaks": "2025-09-11 02:41:14 +0000",
+      "minecraft:mangrove_swamp": "2025-09-11 03:38:20 +0000",
       "minecraft:sparse_jungle": "2025-09-11 02:04:33 +0000",
       "minecraft:river": "2025-09-09 02:05:33 +0000",
       "minecraft:lukewarm_ocean": "2025-09-10 02:51:35 +0000",
       "minecraft:snowy_plains": "2025-09-09 01:50:21 +0000",
       "minecraft:stony_shore": "2025-09-11 02:51:00 +0000",
       "minecraft:snowy_taiga": "2025-09-09 01:55:38 +0000",
+      "minecraft:swamp": "2025-09-11 03:38:32 +0000",
       "minecraft:cold_ocean": "2025-09-09 02:02:26 +0000",
       "minecraft:forest": "2025-09-10 00:20:42 +0000",
       "minecraft:lush_caves": "2025-09-11 03:08:40 +0000",
@@ -73,6 +77,7 @@
       "minecraft:jungle": "2025-09-11 02:55:51 +0000",
       "minecraft:snowy_beach": "2025-09-09 02:00:31 +0000",
       "minecraft:warm_ocean": "2025-09-11 01:37:33 +0000",
+      "minecraft:flower_forest": "2025-09-11 03:38:57 +0000",
       "minecraft:savanna": "2025-09-10 02:46:08 +0000",
       "minecraft:plains": "2025-09-09 02:02:40 +0000"
     },
@@ -4936,6 +4941,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-11 03:08:13 +0000"
@@ -4948,15 +4959,57 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-09-11 03:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-09-11 03:08:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-09-11 03:27:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
     },
     "done": true
   },
@@ -4978,6 +5031,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
@@ -4987,6 +5046,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-11 03:08:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_input": {
+    "criteria": {
+      "has_item": "2025-09-11 03:33:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-11 03:17:49 +0000"
     },
     "done": true
   },
@@ -5002,15 +5073,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-09-11 03:27:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-09-11 03:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
     },
     "done": true
   },
@@ -5023,6 +5124,42 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
     },
     "done": true
   },
@@ -5047,6 +5184,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-09-11 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_core_disabled": {
+    "criteria": {
+      "has_item": "2025-09-11 03:33:19 +0000"
     },
     "done": true
   },
@@ -5086,9 +5235,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-09-11 03:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-09-11 03:41:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
+    "criteria": {
+      "has_dragonscale_electric": "2025-09-11 03:28:13 +0000"
     },
     "done": true
   },
@@ -5116,15 +5307,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-11 03:27:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-11 03:08:55 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-09-11 03:27:58 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-09-11 03:02:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-09-11 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-09-11 03:27:58 +0000"
     },
     "done": true
   },
