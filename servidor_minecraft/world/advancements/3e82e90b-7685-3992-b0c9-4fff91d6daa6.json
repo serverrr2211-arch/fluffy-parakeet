@@ -5396,6 +5396,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-09-12 23:23:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-12 22:15:56 +0000"
@@ -5417,6 +5423,12 @@
   "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
     "criteria": {
       "has_barrel": "2025-09-12 22:45:14 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-09-12 23:11:31 +0000"
     },
     "done": true
   },
@@ -5648,6 +5660,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-09-12 23:17:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-12 22:15:56 +0000"
@@ -5849,6 +5867,12 @@
   "create:recipes/misc/crafting/appliances/package_filter_clear": {
     "criteria": {
       "has_item": "2025-09-12 23:03:21 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-09-12 23:23:46 +0000"
     },
     "done": true
   },
