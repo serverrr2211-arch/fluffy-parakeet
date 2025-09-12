@@ -5452,6 +5452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-12 01:57:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2025-09-12 01:19:54 +0000"

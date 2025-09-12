@@ -5011,6 +5011,12 @@
     },
     "done": true
   },
+  "palladium:recipes/building_blocks/raw_titanium_block": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-12 01:42:33 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/misc/vibranium_ingot_from_blasting_raw_vibranium": {
     "criteria": {
       "has_raw_vibranium": "2025-09-12 01:16:19 +0000"
@@ -5068,6 +5074,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-09-12 01:04:04 +0000"
+    },
+    "done": true
+  },
+  "alienevo:obtain_core": {
+    "criteria": {
+      "prototype_core": "2025-09-12 01:59:04 +0000"
     },
     "done": true
   },
@@ -5167,6 +5179,12 @@
     },
     "done": true
   },
+  "grave.core:recipes/titanium_ingot_from_smelting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-12 01:42:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-09-12 01:03:24 +0000"
@@ -5194,6 +5212,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-12 01:13:45 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_ingot_from_blasting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-12 01:42:33 +0000"
     },
     "done": true
   },
