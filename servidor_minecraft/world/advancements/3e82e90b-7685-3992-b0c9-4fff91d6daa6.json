@@ -5420,6 +5420,18 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-09-12 22:32:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-12 22:33:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-12 22:15:56 +0000"
@@ -5435,6 +5447,12 @@
   "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-12 22:15:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-12 22:37:30 +0000"
     },
     "done": true
   },
@@ -5459,6 +5477,12 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-09-12 22:18:32 +0000"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-09-12 22:32:32 +0000"
     },
     "done": true
   },
@@ -5537,6 +5561,12 @@
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-12 22:15:56 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-09-12 22:33:40 +0000"
     },
     "done": true
   },
@@ -5645,6 +5675,12 @@
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-09-12 22:26:09 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-09-12 22:32:32 +0000"
     },
     "done": true
   },
