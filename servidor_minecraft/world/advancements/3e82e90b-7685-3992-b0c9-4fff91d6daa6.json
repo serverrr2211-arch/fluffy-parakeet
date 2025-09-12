@@ -4867,6 +4867,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-09-12 01:38:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-09-12 01:04:04 +0000"
@@ -5188,6 +5194,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-12 01:13:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-09-12 01:38:47 +0000"
     },
     "done": true
   },
