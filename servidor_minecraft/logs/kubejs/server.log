@@ -343,3 +343,66 @@
 [02:01:40] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1120,108,-496,minecraft:overworld as filled
 [02:01:43] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1119,108,-500,minecraft:overworld as filled
 [02:02:00] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -900,68,-398,minecraft:overworld as filled
+[02:05:10] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:05:10] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:05:10] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:06] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -884,77,-437,minecraft:overworld as filled
+[02:06:12] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:13] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:14] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -880,77,-437,minecraft:overworld as filled
+[02:06:14] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:14] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:15] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:15] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:16] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -877,77,-437,minecraft:overworld as filled
+[02:06:16] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:19] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -876,77,-437,minecraft:overworld as filled
+[02:06:20] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:23] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -872,76,-438,minecraft:overworld as filled
+[02:06:24] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:06:26] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -869,75,-439,minecraft:overworld as filled
+[02:06:29] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -865,75,-439,minecraft:overworld as filled
+[02:06:31] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -862,75,-441,minecraft:overworld as filled
+[02:06:45] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -817,66,-422,minecraft:overworld as filled
+[02:06:51] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -816,68,-421,minecraft:overworld as filled
+[02:06:55] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -810,67,-422,minecraft:overworld as filled
+[02:07:30] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:07:50] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:08:24] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -844,102,-304,minecraft:overworld as filled
+[02:08:26] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -844,102,-301,minecraft:overworld as filled
+[02:08:32] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -841,102,-296,minecraft:overworld as filled
+[02:08:35] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -839,102,-291,minecraft:overworld as filled
+[02:08:40] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -841,102,-288,minecraft:overworld as filled
+[02:08:43] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -839,102,-285,minecraft:overworld as filled
+[02:08:47] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -838,102,-282,minecraft:overworld as filled
+[02:08:50] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -838,103,-279,minecraft:overworld as filled
+[02:08:54] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -835,103,-276,minecraft:overworld as filled
+[02:08:58] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -832,104,-272,minecraft:overworld as filled
+[02:09:00] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -830,104,-269,minecraft:overworld as filled
+[02:09:08] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:09:11] [INFO] addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -893,63,-388,minecraft:overworld as filled
+[02:09:29] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:09:32] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:09:37] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:09:41] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:00] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:10:46] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:11:13] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:11:25] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:11:31] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:12:14] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:12:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:12:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:12:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:12:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:12:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[02:12:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null

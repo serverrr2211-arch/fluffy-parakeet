@@ -1036,7 +1036,8 @@
       "cooked_mutton": "2025-09-12 01:25:58 +0000",
       "cooked_beef": "2025-09-09 02:23:15 +0000",
       "apple": "2025-09-12 01:57:02 +0000",
-      "bread": "2025-09-09 02:26:45 +0000"
+      "bread": "2025-09-09 02:26:45 +0000",
+      "carrot": "2025-09-12 02:09:44 +0000"
     },
     "done": false
   },
@@ -1117,6 +1118,7 @@
       "minecraft:skeleton": "2025-09-09 02:32:42 +0000",
       "minecraft:phantom": "2025-09-10 01:18:31 +0000",
       "minecraft:wither_skeleton": "2025-09-10 01:18:38 +0000",
+      "minecraft:husk": "2025-09-12 02:09:08 +0000",
       "minecraft:zombie": "2025-09-09 02:31:58 +0000"
     },
     "done": false
@@ -3251,6 +3253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-09-12 02:08:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_green_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-12 02:00:22 +0000"
@@ -3287,9 +3295,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 02:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_green_carpet": {
     "criteria": {
       "has_needed_dye": "2025-09-12 02:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-12 02:11:36 +0000"
     },
     "done": true
   },

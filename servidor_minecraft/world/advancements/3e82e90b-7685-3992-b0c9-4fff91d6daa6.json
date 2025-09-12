@@ -674,6 +674,7 @@
       "minecraft:creeper": "2025-09-09 02:03:45 +0000",
       "minecraft:phantom": "2025-09-09 22:50:50 +0000",
       "minecraft:wither_skeleton": "2025-09-09 22:51:11 +0000",
+      "minecraft:husk": "2025-09-12 02:10:00 +0000",
       "minecraft:zombie": "2025-09-09 01:41:20 +0000",
       "minecraft:drowned": "2025-09-09 22:35:06 +0000"
     },
@@ -4507,6 +4508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-09-12 02:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-09-12 01:03:54 +0000"
@@ -4522,6 +4529,12 @@
   "cfm:recipes/decorations/white_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-09-12 01:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-12 02:09:55 +0000"
     },
     "done": true
   },
@@ -4615,6 +4628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-12 02:10:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_crate": {
     "criteria": {
       "has_log": "2025-09-12 01:03:24 +0000"
@@ -4681,6 +4700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-12 02:09:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
     "criteria": {
       "has_planks": "2025-09-12 01:03:24 +0000"
@@ -4702,6 +4727,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-12 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-12 02:09:55 +0000"
     },
     "done": true
   },
@@ -4759,6 +4790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-12 02:09:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_counter": {
     "criteria": {
       "has_concrete": "2025-09-12 01:04:04 +0000"
@@ -4780,6 +4817,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-12 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-12 02:10:26 +0000"
     },
     "done": true
   },
@@ -4828,6 +4871,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-12 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-12 02:10:26 +0000"
+    },
+    "done": true
+  },
+  "alienevo:craft_omnitrix": {
+    "criteria": {
+      "prototype_omnitrix_crafted": "2025-09-12 02:09:19 +0000"
     },
     "done": true
   },
@@ -4909,6 +4964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-09-12 02:10:25 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_bluff": {
     "criteria": {
       "bluff": "2025-09-12 01:07:00 +0000"
@@ -4948,6 +5009,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-12 01:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-12 02:10:26 +0000"
     },
     "done": true
   },
@@ -5005,6 +5072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-09-12 02:10:25 +0000"
+    },
+    "done": true
+  },
   "palladium:recipes/misc/lead_ingot_from_blasting_raw_lead": {
     "criteria": {
       "has_raw_lead": "2025-09-12 01:13:12 +0000"
@@ -5014,6 +5087,12 @@
   "palladium:recipes/building_blocks/raw_titanium_block": {
     "criteria": {
       "has_raw_titanium": "2025-09-12 01:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-09-12 02:10:25 +0000"
     },
     "done": true
   },
@@ -5155,6 +5234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-12 02:10:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-09-12 01:03:54 +0000"
@@ -5164,6 +5249,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-12 01:12:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-12 02:09:55 +0000"
     },
     "done": true
   },
@@ -5248,6 +5339,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-12 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_cut_copper": "2025-09-12 02:10:25 +0000"
     },
     "done": true
   },
