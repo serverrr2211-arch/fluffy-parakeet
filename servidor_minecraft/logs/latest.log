@@ -1893,3 +1893,385 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [12Sep2025 00:59:36.998] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [12Sep2025 01:00:02.934] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [12Sep2025 01:00:02.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/3662, l='ServerLevel[world]', x=-888.83, y=-937.00, z=-389.51] died: Armor Sentinel was killed
+[12Sep2025 01:00:27.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> flesh
+[12Sep2025 01:01:34.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand has made the advancement [Safe Haven]
+[12Sep2025 01:01:35.105] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:01:49.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand has made the advancement [Call For Adventure]
+[12Sep2025 01:01:53.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to -3862.500000, 152.500000, 12476.500000]
+[12Sep2025 01:02:05.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[12Sep2025 01:02:27.003] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:02:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> xaero-waypoint:DUNGEON:D:-3855:162:12470:3:false:0:Internal-overworld-waypoints
+[12Sep2025 01:02:32.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand has made the advancement [A Flaming Sword]
+[12Sep2025 01:02:49.846] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:02:51.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to -3854.500000, 162.500000, 12470.500000]
+[12Sep2025 01:03:02.490] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:03:05.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -3854.500000, 162.500000, 12470.500000]
+[12Sep2025 01:04:53.723] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:05:23.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro moved too quickly! -8.577122295200297,0.43577261291170544,-6.618920616603646
+[12Sep2025 01:06:30.249] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:06:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand has made the advancement [Called Your Bluff]
+[12Sep2025 01:06:41.744] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:06:47.504] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:06:56.697] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:06:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Called Your Bluff]
+[12Sep2025 01:06:57.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[12Sep2025 01:07:00.696] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:00.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro has made the advancement [Called Your Bluff]
+[12Sep2025 01:07:02.610] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:06.101] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:08.252] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:08.402] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:11.416] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:20.217] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:24.645] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:24.813] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:29.848] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:07:38.862] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:08:09.282] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:08:09.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/6717, l='ServerLevel[world]', x=-3798.60, y=-821.00, z=12520.54] died: Armor Sentinel was killed
+[12Sep2025 01:08:38.645] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:08:45.668] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:09:10.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to -893.500000, 64.500000, -394.500000]
+[12Sep2025 01:09:20.307] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: http://youtube.com
+[12Sep2025 01:09:39.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand lost connection: Disconnected
+[12Sep2025 01:09:39.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand left the game
+[12Sep2025 01:09:42.752] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:09:45.162] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:58245] logged in with entity id 7151 at (-3814.275437840973, 166.0, 12528.88984009513)
+[12Sep2025 01:09:45.213] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[12Sep2025 01:09:45.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[12Sep2025 01:09:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[12Sep2025 01:09:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[12Sep2025 01:09:51.361] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -895,64,-387,minecraft:overworld as filled
+[12Sep2025 01:09:56.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -891.500000, 64.500000, -395.500000]
+[12Sep2025 01:09:58.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to -891.500000, 64.500000, -395.500000]
+[12Sep2025 01:09:59.135] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:10:07.217] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -891,63,-386,minecraft:overworld as filled
+[12Sep2025 01:10:13.105] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -893,64,-382,minecraft:overworld as filled
+[12Sep2025 01:10:15.396] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -892,64,-378,minecraft:overworld as filled
+[12Sep2025 01:10:17.941] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -890,64,-378,minecraft:overworld as filled
+[12Sep2025 01:10:21.166] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -888,64,-377,minecraft:overworld as filled
+[12Sep2025 01:10:22.660] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -888,64,-375,minecraft:overworld as filled
+[12Sep2025 01:10:26.159] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -889,64,-372,minecraft:overworld as filled
+[12Sep2025 01:10:29.441] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -891,64,-369,minecraft:overworld as filled
+[12Sep2025 01:10:31.917] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -892,65,-366,minecraft:overworld as filled
+[12Sep2025 01:11:34.535] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:11:46.687] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:13:24.786] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:13:52.505] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:14:50.856] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:15:22.639] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:15:39.343] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:15:45.786] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:18:00.107] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: http://youtube.com
+[12Sep2025 01:18:10.438] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:18:24.086] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:18:25.550] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.550] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.550] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.550] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.551] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.551] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.560] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.560] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.592] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.592] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.593] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.593] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.593] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.593] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.601] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.601] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.615] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.615] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.615] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.641] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.669] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.669] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.669] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.669] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.670] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.671] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.691] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.692] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.692] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.710] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.710] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.710] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.711] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.711] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.716] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.716] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.719] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.719] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.741] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.741] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.752] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.752] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.752] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.753] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.753] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.753] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.753] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.753] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.762] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.762] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.763] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.763] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.763] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.763] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.768] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.769] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.769] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.769] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.791] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.791] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.809] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.809] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.810] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.810] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.810] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.810] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.810] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.810] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.810] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:25.811] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:27.019] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:27.067] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:27.111] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:27.159] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:27.215] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.241] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.242] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.242] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.254] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.254] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.254] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.254] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.254] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.254] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.255] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.255] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.266] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.266] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.266] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.292] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.292] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.292] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.292] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.294] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.294] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.311] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.311] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.317] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.317] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.347] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.348] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.348] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.348] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.348] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.348] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.348] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.348] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.350] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.358] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.358] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.359] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.359] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.366] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.366] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.366] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.367] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.367] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.394] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.394] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.395] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.395] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.395] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.395] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.396] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.405] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.406] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.406] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.406] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.418] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.418] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.419] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.419] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.419] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.443] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.444] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.452] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.452] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.459] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:28.459] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.449] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.463] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.548] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.573] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.623] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.673] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.741] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.794] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.845] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.893] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:32.944] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.006] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.050] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.092] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.141] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.190] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.248] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.296] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.342] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.393] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.442] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.492] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.518] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.563] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.619] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.691] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.722] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.772] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.819] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.865] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.921] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:33.965] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.010] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.065] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.112] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.167] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.208] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.263] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.313] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.392] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.442] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.498] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.542] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.590] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.640] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.691] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.740] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.768] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.821] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.892] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.923] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:34.992] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.022] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.091] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.120] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.172] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.241] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.271] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.320] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.366] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.419] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.492] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.541] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.591] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.643] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.693] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.747] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.801] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.846] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.898] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.948] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:35.992] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.046] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.098] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.145] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.191] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.245] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.296] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.347] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.399] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.441] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.492] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.545] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.595] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.642] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.693] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.742] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.794] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.817] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.868] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.913] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:36.963] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.022] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.068] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.139] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.172] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.221] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.292] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.353] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.403] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.448] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.493] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.540] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.601] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.652] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.706] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.750] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.808] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.849] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.921] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:37.963] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.009] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.059] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.142] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.193] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.252] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.256] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.339] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.411] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.414] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.462] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.551] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.556] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.604] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.695] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.769] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.769] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.793] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.846] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.895] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.940] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:38.995] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.041] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.093] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.121] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.191] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.240] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.293] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.343] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.397] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:39.441] [Server thread/ERROR] [net.montoyo.wd.utilities.Log/]: Called laser operation on side NORTH, but it's missing the laser sensor upgrade
+[12Sep2025 01:18:45.981] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:18:45.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/9456, l='ServerLevel[world]', x=-888.53, y=-937.00, z=-393.12] died: Armor Sentinel was killed
+[12Sep2025 01:19:07.331] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:19:07.332] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/9642, l='ServerLevel[world]', x=-884.31, y=-937.00, z=-393.04] died: Armor Sentinel was killed
+[12Sep2025 01:19:45.551] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:19:53.459] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:20:27.588] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:20:27.839] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:20:28.439] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:20:47.933] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:20:47.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/9673, l='ServerLevel[world]', x=-898.28, y=-935.13, z=-395.40] died: Armor Sentinel was killed
+[12Sep2025 01:21:15.046] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:21:37.226] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:21:39.743] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[12Sep2025 01:21:39.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Armor Sentinel'/10827, l='ServerLevel[world]', x=-896.55, y=-936.00, z=-391.55] died: Armor Sentinel was killed whilst fighting Vheedand
+[12Sep2025 01:21:46.739] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
