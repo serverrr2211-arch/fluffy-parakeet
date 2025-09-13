@@ -5624,6 +5624,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-09-13 00:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-09-12 23:05:11 +0000"
@@ -5699,6 +5705,12 @@
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-09-12 22:15:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-09-13 00:17:57 +0000"
     },
     "done": true
   },

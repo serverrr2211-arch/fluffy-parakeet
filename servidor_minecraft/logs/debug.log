@@ -10992,3 +10992,31 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [13Sep2025 00:10:51.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Sep2025 00:15:51.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Sep2025 00:15:51.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 00:17:24.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Set own game mode to Creative Mode]
+[13Sep2025 00:17:27.530] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:28.231] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:28.631] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:29.380] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:29.481] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:29.931] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:30.531] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:30.578] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:30.831] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:17:33.079] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:18:49.782] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:18:59.084] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:19:18.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Set own game mode to Survival Mode]
+[13Sep2025 00:19:52.131] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:19:54.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro was boiled
+[13Sep2025 00:20:51.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 00:20:51.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 00:22:11.279] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:22:14.179] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:22:40.081] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:22:52.981] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:22:53.630] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:24:32.330] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:24:33.031] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:24:33.430] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:25:51.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 00:25:51.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
