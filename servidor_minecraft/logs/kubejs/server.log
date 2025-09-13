@@ -72,3 +72,13 @@
 [17:14:05] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [17:18:41] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [17:18:44] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:25:45] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:26:57] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:27:00] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:27:04] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:28:22] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:28:26] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:28:45] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:29:18] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:29:30] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[17:30:47] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
