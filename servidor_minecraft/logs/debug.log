@@ -9570,3 +9570,7 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [13Sep2025 18:17:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro left the game
 [13Sep2025 18:21:15.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Sep2025 18:21:15.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 18:26:15.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 18:26:15.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 18:31:15.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 18:31:15.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
