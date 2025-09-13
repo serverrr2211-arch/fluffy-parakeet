@@ -22,3 +22,30 @@
 [13Sep2025 00:24:32.330] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [13Sep2025 00:24:33.031] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [13Sep2025 00:24:33.430] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:27:24.005] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:27:27.544] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:27:30.244] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:27:39.691] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:27:48.894] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:27:49.743] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:27:58.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:43335] logged in with entity id 16315 at (-888.8947010001626, 63.0, -388.98898859138205)
+[13Sep2025 00:27:59.019] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[13Sep2025 00:27:59.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[13Sep2025 00:27:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[13Sep2025 00:27:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[13Sep2025 00:27:59.652] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:28:06.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 15 cooked_porkchop because there is no smelting recipe
+[13Sep2025 00:28:06.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 15 cooked_porkchop because there is no smelting recipe
+[13Sep2025 00:28:06.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 15 cooked_porkchop because there is no smelting recipe
+[13Sep2025 00:28:06.632] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 15 cooked_porkchop because there is no smelting recipe
+[13Sep2025 00:28:25.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand lost connection: Disconnected
+[13Sep2025 00:28:25.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand left the game
+[13Sep2025 00:29:59.330] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[13Sep2025 00:32:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Set own game mode to Creative Mode]
+[13Sep2025 00:33:29.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Set own game mode to Survival Mode]
+[13Sep2025 00:34:17.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:46419] logged in with entity id 18221 at (-888.8947010001626, 63.0, -388.98898859138205)
+[13Sep2025 00:34:17.928] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[13Sep2025 00:34:17.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[13Sep2025 00:34:18.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[13Sep2025 00:34:18.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[13Sep2025 00:35:52.282] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
