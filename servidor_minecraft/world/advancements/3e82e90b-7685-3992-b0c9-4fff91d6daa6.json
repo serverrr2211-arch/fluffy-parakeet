@@ -7098,6 +7098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-09-14 15:51:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
@@ -7137,6 +7143,12 @@
   "cfm:recipes/decorations/jungle_crate": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-09-14 15:51:48 +0000"
     },
     "done": true
   },
