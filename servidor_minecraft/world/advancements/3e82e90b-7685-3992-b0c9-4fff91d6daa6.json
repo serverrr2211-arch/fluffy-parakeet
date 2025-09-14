@@ -7146,6 +7146,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-09-14 15:27:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_park_bench": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
