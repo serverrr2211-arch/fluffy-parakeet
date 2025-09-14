@@ -7104,6 +7104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-14 15:48:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
@@ -7161,6 +7167,12 @@
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-09-14 15:48:19 +0000"
     },
     "done": true
   },
@@ -7239,6 +7251,12 @@
   "grave.core:recipes/screen": {
     "criteria": {
       "has_redstone_lamp": "2025-09-14 14:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-14 15:48:19 +0000"
     },
     "done": true
   },
