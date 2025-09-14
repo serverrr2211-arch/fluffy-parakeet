@@ -1970,3 +1970,4 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [14Sep2025 14:24:16.190] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [14Sep2025 14:24:28.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Set own game mode to Survival Mode]
 [14Sep2025 14:25:16.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Set own game mode to Spectator Mode]
+[14Sep2025 14:31:19.241] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
