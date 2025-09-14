@@ -2573,3 +2573,26 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [14Sep2025 17:41:49.564] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [14Sep2025 17:41:52.255] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [14Sep2025 17:42:04.115] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:43:16.366] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:43:17.456] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:43:19.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro has made the advancement [Withering Heights]
+[14Sep2025 17:43:22.680] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:43:36.905] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:43:54.878] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:44:01.962] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:44:36.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [The internet is for...]
+[14Sep2025 17:44:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Petrosapien]
+[14Sep2025 17:45:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [What a Deal!]
+[14Sep2025 17:46:16.701] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:48:11.701] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:48:42.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Naxoxh7]
+[14Sep2025 17:49:15.204] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{aleepro} (UUID 3e82e90b-7685-3992-b0c9-4fff91d6daa6) created a screen at X: -906, Y: 67, Z: -405 of size 3x2
+[14Sep2025 17:50:02.918] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Naxoxh7} (UUID 9740e10a-575e-3fcb-af15-70595940086a) created a screen at X: -906, Y: 67, Z: -404 of size 5x2
+[14Sep2025 17:50:35.504] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Naxoxh7} (UUID 9740e10a-575e-3fcb-af15-70595940086a) created a screen at X: -906, Y: 67, Z: -403 of size 6x2
+[14Sep2025 17:50:52.501] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:50:59.031] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:51:23.350] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[14Sep2025 17:52:40.353] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 9 glass because there is no smelting recipe
+[14Sep2025 17:52:40.354] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 9 glass because there is no smelting recipe
+[14Sep2025 17:52:40.354] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 9 glass because there is no smelting recipe
+[14Sep2025 17:52:40.354] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 9 glass because there is no smelting recipe

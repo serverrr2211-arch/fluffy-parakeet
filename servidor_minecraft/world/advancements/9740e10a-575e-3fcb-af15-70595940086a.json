@@ -6005,27 +6005,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/glass_from_framed_glass": {
-    "criteria": {
-      "has_item": "2025-09-14 16:56:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-09-14 16:59:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-09-14 16:51:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/glass_from_tiled_glass": {
-    "criteria": {
-      "has_item": "2025-09-14 16:56:13 +0000"
     },
     "done": true
   },
@@ -6035,15 +6017,33 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
-      "has_glass_panes_colorless": "2025-09-14 16:59:58 +0000"
+      "has_glass_colorless": "2025-09-14 16:51:17 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
-      "has_glass_panes_colorless": "2025-09-14 16:59:58 +0000"
+      "has_glass_colorless": "2025-09-14 16:51:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-09-14 16:53:25 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/redstone/duct": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-14 16:55:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-09-14 16:56:08 +0000"
     },
     "done": true
   },
@@ -6059,15 +6059,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/oak_window_pane": {
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
-      "has_ingredient": "2025-09-14 16:53:25 +0000"
+      "has_item": "2025-09-14 16:56:08 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+  "create:recipes/misc/smelting/glass_from_tiled_glass": {
     "criteria": {
-      "has_glass_colorless": "2025-09-14 16:51:17 +0000"
+      "has_item": "2025-09-14 16:56:13 +0000"
     },
     "done": true
   },
@@ -6077,15 +6077,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
-      "has_item": "2025-09-14 16:59:58 +0000"
+      "has_glass_panes_colorless": "2025-09-14 16:59:58 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
-      "has_item": "2025-09-14 16:56:08 +0000"
+      "has_glass_panes_colorless": "2025-09-14 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-09-14 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2025-09-14 16:59:58 +0000"
     },
     "done": true
   },
@@ -6095,15 +6107,15 @@
     },
     "done": true
   },
-  "hoppergadgetry:recipes/redstone/duct": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_iron_ingot": "2025-09-14 16:55:49 +0000"
+      "traded": "2025-09-14 17:45:17 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+  "webdisplays:screen": {
     "criteria": {
-      "has_glass_colorless": "2025-09-14 16:51:17 +0000"
+      "has_screen": "2025-09-14 17:44:36 +0000"
     },
     "done": true
   },
