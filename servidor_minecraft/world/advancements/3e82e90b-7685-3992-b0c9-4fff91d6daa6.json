@@ -7343,6 +7343,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/nether_smithing": {
+    "criteria": {
+      "has_nether": "2025-09-14 17:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-09-14 17:21:01 +0000"
