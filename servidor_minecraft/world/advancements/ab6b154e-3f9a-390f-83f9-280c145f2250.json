@@ -9,11 +9,15 @@
     "criteria": {
       "minecraft:taiga": "2025-09-13 20:23:39 +0000",
       "minecraft:frozen_river": "2025-09-09 02:15:18 +0000",
+      "minecraft:birch_forest": "2025-09-14 16:56:24 +0000",
       "minecraft:beach": "2025-09-13 20:29:49 +0000",
       "minecraft:stony_peaks": "2025-09-12 01:04:31 +0000",
+      "minecraft:dark_forest": "2025-09-14 16:49:36 +0000",
+      "minecraft:sparse_jungle": "2025-09-14 16:43:17 +0000",
       "minecraft:river": "2025-09-09 02:18:25 +0000",
       "minecraft:snowy_plains": "2025-09-09 01:04:04 +0000",
       "minecraft:forest": "2025-09-10 01:04:13 +0000",
+      "minecraft:jungle": "2025-09-14 16:41:47 +0000",
       "minecraft:meadow": "2025-09-09 02:30:58 +0000",
       "minecraft:plains": "2025-09-09 02:15:41 +0000"
     },
@@ -1040,6 +1044,7 @@
       "apple": "2025-09-12 01:57:02 +0000",
       "pumpkin_pie": "2025-09-13 00:41:38 +0000",
       "bread": "2025-09-09 02:26:45 +0000",
+      "golden_apple": "2025-09-14 16:39:33 +0000",
       "carrot": "2025-09-12 02:09:44 +0000"
     },
     "done": false
@@ -1118,13 +1123,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-14 16:45:56 +0000",
       "minecraft:skeleton": "2025-09-09 02:32:42 +0000",
+      "minecraft:vindicator": "2025-09-14 16:48:18 +0000",
       "minecraft:spider": "2025-09-13 02:39:36 +0000",
       "minecraft:creeper": "2025-09-13 03:05:43 +0000",
       "minecraft:phantom": "2025-09-10 01:18:31 +0000",
       "minecraft:wither_skeleton": "2025-09-10 01:18:38 +0000",
       "minecraft:husk": "2025-09-12 02:09:08 +0000",
       "minecraft:cave_spider": "2025-09-13 20:05:29 +0000",
+      "minecraft:piglin": "2025-09-14 16:41:55 +0000",
       "minecraft:zombie": "2025-09-09 02:31:58 +0000",
       "minecraft:zombie_villager": "2025-09-13 00:43:56 +0000"
     },
@@ -4974,6 +4982,294 @@
   "grave.core:recipes/screen": {
     "criteria": {
       "has_redstone_lamp": "2025-09-13 21:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-14 16:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-09-14 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-09-14 16:51:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-14 16:36:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-14 17:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-09-14 16:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2025-09-14 16:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-14 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-09-14 16:46:12 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-09-14 16:41:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-09-14 16:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2025-09-14 17:01:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-09-14 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-14 16:40:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-09-14 16:44:54 +0000"
     },
     "done": true
   },

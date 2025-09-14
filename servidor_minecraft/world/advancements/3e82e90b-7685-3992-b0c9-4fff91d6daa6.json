@@ -562,6 +562,7 @@
       "golden_apple": "2025-09-09 22:51:20 +0000",
       "golden_carrot": "2025-09-09 01:54:06 +0000",
       "cooked_rabbit": "2025-09-09 01:38:59 +0000",
+      "rabbit_stew": "2025-09-14 16:55:35 +0000",
       "carrot": "2025-09-13 19:42:06 +0000"
     },
     "done": false
@@ -671,6 +672,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-13 00:41:34 +0000",
+      "minecraft:blaze": "2025-09-14 17:02:21 +0000",
       "minecraft:skeleton": "2025-09-09 22:41:44 +0000",
       "minecraft:ghast": "2025-09-13 19:51:40 +0000",
       "minecraft:hoglin": "2025-09-09 22:51:07 +0000",
@@ -6896,6 +6898,7 @@
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
+      "minecraft:fortress": "2025-09-14 17:02:23 +0000",
       "nova_structures:nether_skeleton_tower_basalt": "2025-09-13 19:52:28 +0000"
     },
     "done": false
@@ -7086,6 +7089,12 @@
     },
     "done": true
   },
+  "grave.core:recipes/screen": {
+    "criteria": {
+      "has_redstone_lamp": "2025-09-14 14:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
@@ -7098,21 +7107,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-09-14 15:51:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_upgraded_gate": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-09-14 15:48:19 +0000"
     },
     "done": true
   },
@@ -7146,12 +7143,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-09-14 15:51:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/jungle_desk_cabinet": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
@@ -7164,12 +7155,6 @@
     },
     "done": true
   },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2025-09-14 15:27:41 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_park_bench": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
@@ -7179,12 +7164,6 @@
   "cfm:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-09-14 15:48:19 +0000"
     },
     "done": true
   },
@@ -7203,12 +7182,6 @@
   "cfm:recipes/decorations/jungle_coffee_table": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/coal_smithing": {
-    "criteria": {
-      "has_coal": "2025-09-14 15:16:03 +0000"
     },
     "done": true
   },
@@ -7260,18 +7233,6 @@
     },
     "done": true
   },
-  "grave.core:recipes/screen": {
-    "criteria": {
-      "has_redstone_lamp": "2025-09-14 14:02:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-09-14 15:48:19 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_crate": {
     "criteria": {
       "has_planks": "2025-09-14 14:52:12 +0000"
@@ -7281,6 +7242,174 @@
   "cfm:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_log": "2025-09-14 14:52:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal_smithing": {
+    "criteria": {
+      "has_coal": "2025-09-14 15:16:03 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-09-14 15:27:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-14 15:48:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-09-14 15:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-14 15:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-09-14 15:51:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-09-14 15:51:48 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/redstone/grated_hopper_from_hopper": {
+    "criteria": {
+      "has_hopper": "2025-09-14 16:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-14 17:02:21 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/black_fabric": {
+    "criteria": {
+      "has_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-09-14 16:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-14 17:02:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-09-14 16:48:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-09-14 16:46:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-09-14 16:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-09-14 16:48:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-09-14 16:48:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-09-14 16:46:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-09-14 16:46:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-14 17:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-14 17:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-09-14 16:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-14 17:02:21 +0000"
     },
     "done": true
   },
