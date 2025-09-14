@@ -419,10 +419,12 @@
       "cooked_porkchop": "2025-09-11 01:53:44 +0000",
       "cooked_mutton": "2025-09-09 02:18:49 +0000",
       "cooked_beef": "2025-09-10 02:03:33 +0000",
+      "apple": "2025-09-14 18:25:31 +0000",
       "bread": "2025-09-09 02:09:33 +0000",
       "golden_apple": "2025-09-10 01:09:18 +0000",
       "melon_slice": "2025-09-13 21:11:15 +0000",
       "golden_carrot": "2025-09-09 02:00:01 +0000",
+      "cooked_rabbit": "2025-09-14 18:22:44 +0000",
       "cooked_chicken": "2025-09-09 02:40:05 +0000",
       "enchanted_golden_apple": "2025-09-10 01:02:32 +0000"
     },
@@ -6107,9 +6109,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-14 18:26:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
+    "criteria": {
+      "has_gray_wool": "2025-09-14 18:26:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-14 18:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-14 18:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-14 18:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-09-14 17:45:17 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/gray_fabric": {
+    "criteria": {
+      "has_wool": "2025-09-14 18:26:53 +0000"
     },
     "done": true
   },

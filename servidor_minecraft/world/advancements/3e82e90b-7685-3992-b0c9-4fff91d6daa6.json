@@ -7302,6 +7302,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
@@ -7317,6 +7323,12 @@
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7344,6 +7356,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
@@ -7356,15 +7374,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "grave.core:recipes/black_fabric": {
     "criteria": {
       "has_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7380,9 +7416,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/minecart_coupling": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7470,6 +7518,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
@@ -7500,6 +7554,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-09-14 18:05:43 +0000"
@@ -7509,6 +7569,12 @@
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7542,6 +7608,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
@@ -7557,6 +7629,12 @@
   "cfm:recipes/decorations/black_sofa": {
     "criteria": {
       "has_wool": "2025-09-14 16:57:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7626,9 +7704,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-09-14 16:48:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7641,6 +7731,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-09-14 17:16:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7659,6 +7755,12 @@
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-09-14 16:46:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7716,6 +7818,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-09-14 18:05:43 +0000"
@@ -7731,6 +7845,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-09-14 17:18:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
@@ -7758,6 +7878,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/item_hatch": {
     "criteria": {
       "has_item": "2025-09-14 18:05:43 +0000"
@@ -7782,6 +7908,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-09-14 17:18:48 +0000"
@@ -7791,6 +7923,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-09-14 17:02:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-09-14 18:23:16 +0000"
     },
     "done": true
   },
