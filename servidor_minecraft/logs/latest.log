@@ -2325,3 +2325,19 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [15Sep2025 21:40:37.062] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [15Sep2025 21:45:31.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro lost connection: Disconnected
 [15Sep2025 21:45:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro left the game
+[15Sep2025 22:22:56.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aleepro[/127.22.19.211:33673] logged in with entity id 62431 at (-938.9364941569125, 75.0, -443.82240468661075)
+[15Sep2025 22:22:56.417] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aleepro
+[15Sep2025 22:22:56.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro joined the game
+[15Sep2025 22:22:56.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[15Sep2025 22:22:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[15Sep2025 22:23:14.563] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:14.912] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:14.963] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:15.359] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:15.463] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:15.761] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:16.112] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:16.262] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:16.411] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:16.664] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 22:23:17.513] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
