@@ -6247,6 +6247,12 @@
     },
     "done": true
   },
+  "palladium:recipes/building_blocks/raw_lead_block": {
+    "criteria": {
+      "has_raw_lead": "2025-09-15 19:55:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-15 19:08:30 +0000"
@@ -6262,6 +6268,12 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-09-15 18:54:36 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_ingot_from_smelting_raw_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-09-15 19:55:49 +0000"
     },
     "done": true
   },
@@ -6586,6 +6598,12 @@
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-09-15 19:16:32 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/lead_ingot_from_blasting_raw_lead": {
+    "criteria": {
+      "has_raw_lead": "2025-09-15 19:55:49 +0000"
     },
     "done": true
   },
