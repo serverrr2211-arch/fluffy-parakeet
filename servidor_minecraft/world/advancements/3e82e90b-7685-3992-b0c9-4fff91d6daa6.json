@@ -8125,9 +8125,9 @@
     },
     "done": true
   },
-  "create:super_glue": {
+  "travelersbackpack:recipes/misc/diamond_smithing": {
     "criteria": {
-      "0": "2025-09-15 21:41:24 +0000"
+      "has_diamond": "2025-09-15 21:26:48 +0000"
     },
     "done": true
   },
@@ -8137,15 +8137,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/diamond_smithing": {
+  "create:super_glue": {
     "criteria": {
-      "has_diamond": "2025-09-15 21:26:48 +0000"
+      "0": "2025-09-15 21:41:24 +0000"
     },
     "done": true
   },
   "create:contraption_actors": {
     "criteria": {
       "0": "2025-09-15 21:42:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-15 22:30:55 +0000"
     },
     "done": true
   },
