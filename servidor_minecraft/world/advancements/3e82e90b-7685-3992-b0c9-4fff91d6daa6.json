@@ -8125,6 +8125,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassis_from_conversion": {
+    "criteria": {
+      "has_item": "2025-09-15 21:40:45 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond_smithing": {
     "criteria": {
       "has_diamond": "2025-09-15 21:26:48 +0000"
