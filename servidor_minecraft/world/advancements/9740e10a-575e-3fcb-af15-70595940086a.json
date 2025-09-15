@@ -6115,6 +6115,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-14 18:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-14 18:59:34 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2025-09-14 18:26:53 +0000"
@@ -6127,15 +6139,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-14 18:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-14 18:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-09-14 18:26:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-09-14 18:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-09-14 18:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-14 18:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-09-14 18:51:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-14 18:59:34 +0000"
     },
     "done": true
   },
@@ -6148,6 +6196,12 @@
   "grave.core:recipes/gray_fabric": {
     "criteria": {
       "has_wool": "2025-09-14 18:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-14 18:51:59 +0000"
     },
     "done": true
   },
