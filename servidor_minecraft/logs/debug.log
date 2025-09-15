@@ -11288,3 +11288,9 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [15Sep2025 21:40:37.062] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [15Sep2025 21:40:57.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Sep2025 21:40:57.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 21:45:31.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro lost connection: Disconnected
+[15Sep2025 21:45:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro left the game
+[15Sep2025 21:45:57.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 21:45:57.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Sep2025 21:50:57.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Sep2025 21:50:57.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

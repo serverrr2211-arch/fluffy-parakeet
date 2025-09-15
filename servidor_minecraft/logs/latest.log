@@ -2323,3 +2323,5 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [15Sep2025 21:39:10.864] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [15Sep2025 21:39:11.265] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [15Sep2025 21:40:37.062] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 21:45:31.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro lost connection: Disconnected
+[15Sep2025 21:45:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro left the game

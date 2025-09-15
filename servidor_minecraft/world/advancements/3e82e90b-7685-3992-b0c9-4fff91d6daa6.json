@@ -8125,6 +8125,12 @@
     },
     "done": true
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-09-15 21:41:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassis_from_conversion": {
     "criteria": {
       "has_item": "2025-09-15 21:40:45 +0000"
@@ -8134,6 +8140,12 @@
   "travelersbackpack:recipes/misc/diamond_smithing": {
     "criteria": {
       "has_diamond": "2025-09-15 21:26:48 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-09-15 21:42:13 +0000"
     },
     "done": true
   },
