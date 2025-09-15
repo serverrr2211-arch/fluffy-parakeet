@@ -1948,3 +1948,11 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [15Sep2025 18:27:15.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
 [15Sep2025 18:27:15.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
 [15Sep2025 18:27:15.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[15Sep2025 18:34:48.075] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 18:35:23.368] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 18:35:27.324] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 18:35:33.019] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 18:35:33.021] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 18:36:37.568] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 18:37:50.618] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[15Sep2025 18:38:03.873] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null

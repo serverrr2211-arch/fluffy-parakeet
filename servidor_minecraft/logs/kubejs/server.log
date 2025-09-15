@@ -33,3 +33,11 @@
 [18:00:50] [INFO] [minecraft:block] Found 455 tags, added 14 objects, removed 0 objects
 [18:00:50] [INFO] [minecraft:item] Found 643 tags, added 4 objects, removed 0 objects
 [18:00:53] [INFO] Server resource reload complete!
+[18:34:48] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[18:35:23] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[18:35:27] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[18:35:33] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[18:35:33] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[18:36:37] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[18:37:50] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[18:38:03] [ERROR] ! addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
