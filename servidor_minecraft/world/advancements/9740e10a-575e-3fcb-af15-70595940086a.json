@@ -71,6 +71,7 @@
       "minecraft:snowy_taiga": "2025-09-09 01:55:38 +0000",
       "minecraft:dripstone_caves": "2025-09-11 04:03:09 +0000",
       "minecraft:swamp": "2025-09-11 03:38:32 +0000",
+      "minecraft:grove": "2025-09-16 15:18:16 +0000",
       "minecraft:cold_ocean": "2025-09-09 02:02:26 +0000",
       "minecraft:forest": "2025-09-10 00:20:42 +0000",
       "minecraft:lush_caves": "2025-09-11 03:08:40 +0000",
@@ -7749,9 +7750,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-16 15:24:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-09-16 15:23:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-09-16 15:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-09-16 15:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-16 15:24:50 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-09-16 15:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-09-16 15:23:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-09-16 15:27:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-16 15:24:50 +0000"
     },
     "done": true
   },

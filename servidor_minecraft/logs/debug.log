@@ -12265,3 +12265,415 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [16Sep2025 15:07:44.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Sep2025 15:07:51.722] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [16Sep2025 15:09:00.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to Naxoxh7]
+[16Sep2025 15:10:30.123] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:10:51.429] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:10:52.677] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:10:53.275] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:11:10.482] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:11:11.271] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:11:12.574] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:11:13.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to Naxoxh7]
+[16Sep2025 15:12:44.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 15:12:44.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 15:13:20.324] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:13:36.427] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:13:40.669] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:13:47.771] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:19.521] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:35.084] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:38.783] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:38.784] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:38.785] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:38.786] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:38.786] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:38.787] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:43.473] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:43.474] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:43.475] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:43.475] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:43.476] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:43.972] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:44.185] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:44.185] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:44.186] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:48.325] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:50.499] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:53.616] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:53.886] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[16Sep2025 15:14:53.890] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[16Sep2025 15:14:55.972] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:14:58.876] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:15:45.426] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:15:45.427] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:15:45.427] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:15:57.119] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[16Sep2025 15:16:22.687] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room6
+[16Sep2025 15:16:22.689] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room7
+[16Sep2025 15:16:22.690] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_secret_room1
+[16Sep2025 15:16:22.691] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room3
+[16Sep2025 15:16:22.692] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room10
+[16Sep2025 15:16:22.719] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase5
+[16Sep2025 15:16:22.720] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room2
+[16Sep2025 15:16:22.721] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room1
+[16Sep2025 15:16:22.723] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room10
+[16Sep2025 15:16:22.724] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room3
+[16Sep2025 15:16:22.725] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room8
+[16Sep2025 15:16:22.727] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room6
+[16Sep2025 15:16:22.729] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room13
+[16Sep2025 15:16:22.730] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_secret_room4
+[16Sep2025 15:16:22.730] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase2
+[16Sep2025 15:16:22.731] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase6
+[16Sep2025 15:16:22.731] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase3
+[16Sep2025 15:16:22.733] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room7
+[16Sep2025 15:16:22.734] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room12
+[16Sep2025 15:16:22.735] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_secret_room3
+[16Sep2025 15:16:22.736] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room4
+[16Sep2025 15:16:22.748] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase4
+[16Sep2025 15:16:22.749] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase1
+[16Sep2025 15:16:22.750] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room1
+[16Sep2025 15:16:22.751] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_secret_room2
+[16Sep2025 15:16:22.752] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room8
+[16Sep2025 15:16:22.753] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room2
+[16Sep2025 15:16:22.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room9
+[16Sep2025 15:16:22.757] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room9
+[16Sep2025 15:16:22.758] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room2
+[16Sep2025 15:16:22.761] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room5
+[16Sep2025 15:16:22.761] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room1
+[16Sep2025 15:16:22.762] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room4
+[16Sep2025 15:16:22.763] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_library_showcase8
+[16Sep2025 15:16:22.771] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_attic_room11
+[16Sep2025 15:16:22.773] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement3
+[16Sep2025 15:16:22.779] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement7
+[16Sep2025 15:16:22.779] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement11
+[16Sep2025 15:16:22.784] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room5
+[16Sep2025 15:16:22.791] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room6
+[16Sep2025 15:16:22.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room20
+[16Sep2025 15:16:22.805] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room17
+[16Sep2025 15:16:22.813] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room4
+[16Sep2025 15:16:22.878] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room9
+[16Sep2025 15:16:22.886] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room11
+[16Sep2025 15:16:22.893] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement9
+[16Sep2025 15:16:22.983] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:illager_mansion/mansion_house_lock_5 is being run through DFU (hash 351eccd440274e7d27fa3c717cec9721eb82835fe125ac7d4e0574bcac0b3d6f), this will cause launch time delays
+[16Sep2025 15:16:22.989] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:illager_mansion/mansion_house_2xcurve_right_2 is being run through DFU (hash 0799a733a6f029b5e2a2e3ce55b28d5dd77907e29482fda8796d77bb58cdd34b), this will cause launch time delays
+[16Sep2025 15:16:23.079] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_2x4_2
+[16Sep2025 15:16:23.162] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_3x8_left_2
+[16Sep2025 15:16:23.188] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room7
+[16Sep2025 15:16:23.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window2
+[16Sep2025 15:16:23.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_backyard_tower1_top
+[16Sep2025 15:16:23.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window3
+[16Sep2025 15:16:23.191] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window1
+[16Sep2025 15:16:23.191] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_window4
+[16Sep2025 15:16:23.209] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_backyard1
+[16Sep2025 15:16:23.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement8
+[16Sep2025 15:16:23.276] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room4
+[16Sep2025 15:16:23.277] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room8
+[16Sep2025 15:16:23.311] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/vindicator_void
+[16Sep2025 15:16:23.311] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/witch_void
+[16Sep2025 15:16:23.311] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/villager_void
+[16Sep2025 15:16:23.312] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/witch
+[16Sep2025 15:16:23.312] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/vindicator
+[16Sep2025 15:16:23.312] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/golem_void
+[16Sep2025 15:16:23.313] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/evoker
+[16Sep2025 15:16:23.313] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/golem
+[16Sep2025 15:16:23.313] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/allay_void
+[16Sep2025 15:16:23.313] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/allay
+[16Sep2025 15:16:23.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/villager
+[16Sep2025 15:16:23.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/pillager
+[16Sep2025 15:16:23.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/pillager_void
+[16Sep2025 15:16:23.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/evoker_void
+[16Sep2025 15:16:23.317] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room6
+[16Sep2025 15:16:23.318] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room19
+[16Sep2025 15:16:23.320] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room8
+[16Sep2025 15:16:23.325] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement8
+[16Sep2025 15:16:23.338] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement4
+[16Sep2025 15:16:23.358] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:illager_mansion/mansion_house_2x5_left_1 is being run through DFU (hash 3bd6cbcc8ad3e8e22d5c54db3bfac14de5360023b5fa83b116d57a9a41c60806), this will cause launch time delays
+[16Sep2025 15:16:23.413] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:illager_mansion/mansion_house_2x4_1 is being run through DFU (hash a6b94d4dbf6306d030ee4e5919ceed54c4217497153c7724cb4eac02c7e25e40), this will cause launch time delays
+[16Sep2025 15:16:23.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement10
+[16Sep2025 15:16:23.486] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room11
+[16Sep2025 15:16:23.497] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room21
+[16Sep2025 15:16:23.508] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room7
+[16Sep2025 15:16:23.509] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room18
+[16Sep2025 15:16:23.524] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room12
+[16Sep2025 15:16:23.674] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement12
+[16Sep2025 15:16:23.676] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_large_room14
+[16Sep2025 15:16:23.677] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room5
+[16Sep2025 15:16:23.701] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_2x6_cross_2
+[16Sep2025 15:16:23.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room10
+[16Sep2025 15:16:24.292] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room_basement13
+[16Sep2025 15:16:24.294] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement6
+[16Sep2025 15:16:24.478] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_middle_room10
+[16Sep2025 15:16:24.496] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement12
+[16Sep2025 15:16:24.497] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement9
+[16Sep2025 15:16:24.497] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_small_room_basement11
+[16Sep2025 15:16:24.739] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_2xcurve_right_1
+[16Sep2025 15:16:24.856] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_house_3x8_right_2
+[16Sep2025 15:16:24.873] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:illager_mansion/mansion_house_3x8_left_1 is being run through DFU (hash 16622a0ebfe9f17048c453867f663638f807f51cfe0bddf718191c5d892a3b46), this will cause launch time delays
+[16Sep2025 15:16:25.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3776ms or 75 ticks behind
+[16Sep2025 15:16:25.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 9.648634571316506,2.7531999805212024,0.6053134961766773
+[16Sep2025 15:16:28.423] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[16Sep2025 15:16:39.226] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:17:48.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 15:17:48.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 15:18:17.720] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:18:25.563] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[16Sep2025 15:18:25.569] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_2_double
+[16Sep2025 15:18:25.575] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_3_cells
+[16Sep2025 15:18:25.580] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_3_stairway
+[16Sep2025 15:18:25.581] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_skeleton_0
+[16Sep2025 15:18:25.582] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_skeleton_1
+[16Sep2025 15:18:25.584] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_evoker_fangs_0
+[16Sep2025 15:18:25.584] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_zombie_horde_0
+[16Sep2025 15:18:25.584] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_witch_0
+[16Sep2025 15:18:25.585] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_skeleton_2_wither
+[16Sep2025 15:18:25.586] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_passage_1
+[16Sep2025 15:18:25.592] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_4_pit
+[16Sep2025 15:18:25.634] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_1_double
+[16Sep2025 15:18:25.641] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_6_water
+[16Sep2025 15:18:25.645] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_5_brews
+[16Sep2025 15:18:25.651] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_room_0
+[16Sep2025 15:18:25.654] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_0
+[16Sep2025 15:18:25.657] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_2_crossing
+[16Sep2025 15:18:25.661] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_1_cells
+[16Sep2025 15:18:25.664] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_0
+[16Sep2025 15:18:25.676] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_1
+[16Sep2025 15:18:25.770] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_2
+[16Sep2025 15:18:25.772] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_5
+[16Sep2025 15:18:25.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_3
+[16Sep2025 15:18:25.774] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_1
+[16Sep2025 15:18:25.776] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_6
+[16Sep2025 15:18:25.777] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_3
+[16Sep2025 15:18:25.777] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_2
+[16Sep2025 15:18:25.779] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_0
+[16Sep2025 15:18:25.780] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_security_4
+[16Sep2025 15:18:25.781] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_cell_normal_4
+[16Sep2025 15:18:25.782] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_passage_2
+[16Sep2025 15:18:25.783] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_passage_0
+[16Sep2025 15:18:59.783] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:19:17.072] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:19:22.140] [Worker-Main-1/DEBUG] [com.bobmowzie.mowziesmobs.MowziesMobs/]: Monastery at BlockPos{x=-4648, y=0, z=18504}
+[16Sep2025 15:19:22.145] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:monastery/monastery_center_back is being run through DFU (hash 4cace5d64ba7b957098b0feebb878d0f0014246af3ec239bfbccfa8043874625), this will cause launch time delays
+[16Sep2025 15:19:22.393] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_doorway
+[16Sep2025 15:19:22.598] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:monastery/monastery_wall_connector_exit is being run through DFU (hash e83a0eade57bc99256d6248fc9ae83cd17a29ae82bcfc481d46cd71efc847ff6), this will cause launch time delays
+[16Sep2025 15:19:22.622] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:monastery/monastery_room_roof is being run through DFU (hash 1c04cfb5ddd329ab177792b6352c67e51ddc0c1a0cb221c4e7c69ef8276696bd), this will cause launch time delays
+[16Sep2025 15:19:22.715] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_room
+[16Sep2025 15:19:23.183] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_corner_gap
+[16Sep2025 15:19:23.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_end
+[16Sep2025 15:19:24.365] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:monastery/monastery_wall_gap is being run through DFU (hash 7952207a3f146e26fd9de44d83c793f5b0c0f57b6f06c40ca80a1ed16edde472), this will cause launch time delays
+[16Sep2025 15:19:24.560] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_corner_elevated
+[16Sep2025 15:19:24.575] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_gong_helper
+[16Sep2025 15:19:24.580] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_banners_helper
+[16Sep2025 15:19:24.698] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:monastery/interior/monastery_gong is being run through DFU (hash e529dae8c4f514b57b5bcea73524138f0d43920aa9b485fc95dc0724676e646f), this will cause launch time delays
+[16Sep2025 15:19:24.701] [Worker-Main-1/DEBUG] [ModernFix/]: Structure mowziesmobs:monastery/interior/monastery_banners is being run through DFU (hash 6ce1411c6a9750ec0b2ef7ced6d682ac3b94f4c795c5207c57c4038037dd43c7), this will cause launch time delays
+[16Sep2025 15:19:25.773] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[16Sep2025 15:19:25.774] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[16Sep2025 15:19:25.775] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[16Sep2025 15:19:25.776] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[16Sep2025 15:19:25.781] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[16Sep2025 15:19:25.785] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[16Sep2025 15:19:25.799] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[16Sep2025 15:19:25.824] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[16Sep2025 15:19:25.829] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[16Sep2025 15:19:35.230] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:19:56.371] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:19:57.973] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:20:52.269] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:20:59.822] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:21:53.917] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:22:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to Vheedand]
+[16Sep2025 15:22:21.470] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:22:37.482] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:22:37.520] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:22:38.175] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:22:48.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 15:22:48.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 15:22:50.074] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:23:30.123] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:23:31.772] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:23:32.814] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:09.418] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:10.169] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:17.270] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:17.619] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:20.418] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:20.494] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:32.846] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:37.073] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:44.256] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_0 is being run through DFU (hash 9e48f551458ddfcade896d7ca305b591643588d914e715ce873200d9884cb6fe), this will cause launch time delays
+[16Sep2025 15:24:44.338] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_5 is being run through DFU (hash 942da1f93d36cec1108eee837cd4f83ef594a7561a494a3f2907926d63f416f2), this will cause launch time delays
+[16Sep2025 15:24:44.346] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_1 is being run through DFU (hash f83a08665efb18a957ad08768d4992b244d90f08eb2106c3e758a0663b5bce69), this will cause launch time delays
+[16Sep2025 15:24:44.354] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_0 is being run through DFU (hash 7215f38da0a4e40c5e3be9df2d522385c374364fd66a15dc8268b8b24f3ab0bf), this will cause launch time delays
+[16Sep2025 15:24:44.369] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0 is being run through DFU (hash 3bfc8ff3f3ebe009489efe9360b216a449859cea932618c5b7f7b07ed916e677), this will cause launch time delays
+[16Sep2025 15:24:44.477] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0 is being run through DFU (hash 9a942708f01af3adf4474a483508d1e8ec94602d50f0443a647aa229bb5cbbcc), this will cause launch time delays
+[16Sep2025 15:24:44.486] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0 is being run through DFU (hash 2f6487228a3805c0d7b00c112bef4ac8f35a296c762be52dea96a6c4a594531c), this will cause launch time delays
+[16Sep2025 15:24:44.507] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_2 is being run through DFU (hash 1d89d7a684d39b030355334cc2b0c16afc3437b8dacdba4ea1580a6bea3dac51), this will cause launch time delays
+[16Sep2025 15:24:44.514] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_3 is being run through DFU (hash 84becc53712d1abd55fa171bf28df8aa92cf0cc5fefbe440f611c38461a1ac32), this will cause launch time delays
+[16Sep2025 15:24:44.521] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_4 is being run through DFU (hash a15946f6340c8b1ac52809325a6588f53b27f1948d22d65d91cbd84d289e1c0c), this will cause launch time delays
+[16Sep2025 15:24:44.527] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_6 is being run through DFU (hash a9be9a543f6d46326b4730af976341e8d5312d2214944435878a24cce93506a2), this will cause launch time delays
+[16Sep2025 15:24:44.531] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_3 is being run through DFU (hash 8e2f5381d72ddfcfab26d74f2027172086828df75d6022dd0914e8d9b6cbeb54), this will cause launch time delays
+[16Sep2025 15:24:44.532] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_5 is being run through DFU (hash b16287199ebfbf48f13985ac661a303cff3f3b751066c1a42639e2363467086e), this will cause launch time delays
+[16Sep2025 15:24:44.533] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_1 is being run through DFU (hash 01652cf47c7082e9f19c45124baadfe81ef490bca3ad6175714197c8462db8a1), this will cause launch time delays
+[16Sep2025 15:24:44.535] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_2 is being run through DFU (hash 6477a7cd80a030726efdea868090e5e04e92e17689fdea73f4f8f83e5882c523), this will cause launch time delays
+[16Sep2025 15:24:44.536] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_4 is being run through DFU (hash aaa608531a138f09a33e86da9867a8d90f3d6753090fa2fd9e1da696c46be10e), this will cause launch time delays
+[16Sep2025 15:24:44.538] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_0 is being run through DFU (hash bca7da9b36eca8f10a5ad8a2a45935fca02a69a04d38250f3e1e572d5665f655), this will cause launch time delays
+[16Sep2025 15:24:44.558] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_2 is being run through DFU (hash 464b12e8377965d0b6d5137e86de34708c3a05f3168a57506f77385520d0e222), this will cause launch time delays
+[16Sep2025 15:24:44.568] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_1 is being run through DFU (hash d071b56dfb91802d6e283fcc6fe89bdd362f5d2f7ac61c6bfd8cf9d3b46e72cb), this will cause launch time delays
+[16Sep2025 15:24:44.572] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_3 is being run through DFU (hash 5af8fe5a34f5e8167681b21570c8d42e9103c66e0efab3011a04021c1f279f1a), this will cause launch time delays
+[16Sep2025 15:24:44.985] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[16Sep2025 15:24:44.996] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[16Sep2025 15:24:45.000] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[16Sep2025 15:24:45.008] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[16Sep2025 15:24:45.012] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[16Sep2025 15:24:45.017] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[16Sep2025 15:24:45.025] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[16Sep2025 15:24:45.026] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[16Sep2025 15:24:45.026] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[16Sep2025 15:24:45.039] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[16Sep2025 15:24:45.043] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[16Sep2025 15:24:45.196] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[16Sep2025 15:24:45.308] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[16Sep2025 15:24:45.352] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[16Sep2025 15:24:45.405] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[16Sep2025 15:24:45.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[16Sep2025 15:24:45.518] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[16Sep2025 15:24:45.521] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[16Sep2025 15:24:45.522] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[16Sep2025 15:24:45.524] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[16Sep2025 15:24:45.528] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[16Sep2025 15:24:45.546] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[16Sep2025 15:24:45.552] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[16Sep2025 15:24:45.662] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[16Sep2025 15:24:45.667] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[16Sep2025 15:24:45.669] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[16Sep2025 15:24:45.685] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[16Sep2025 15:24:45.748] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[16Sep2025 15:24:45.752] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[16Sep2025 15:24:45.754] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[16Sep2025 15:24:45.754] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[16Sep2025 15:24:45.754] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[16Sep2025 15:24:45.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[16Sep2025 15:24:45.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[16Sep2025 15:24:45.755] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[16Sep2025 15:24:45.756] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[16Sep2025 15:24:45.756] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[16Sep2025 15:24:45.756] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[16Sep2025 15:24:45.757] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[16Sep2025 15:24:45.757] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[16Sep2025 15:24:45.774] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[16Sep2025 15:24:45.830] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[16Sep2025 15:24:45.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[16Sep2025 15:24:45.905] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[16Sep2025 15:24:45.924] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[16Sep2025 15:24:45.944] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[16Sep2025 15:24:45.949] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[16Sep2025 15:24:45.951] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[16Sep2025 15:24:45.953] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[16Sep2025 15:24:45.953] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[16Sep2025 15:24:45.956] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[16Sep2025 15:24:45.956] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[16Sep2025 15:24:45.957] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[16Sep2025 15:24:45.958] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[16Sep2025 15:24:45.958] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[16Sep2025 15:24:45.958] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[16Sep2025 15:24:45.959] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[16Sep2025 15:24:45.972] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Sep2025 15:24:45.972] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Sep2025 15:24:45.981] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Sep2025 15:24:45.981] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Sep2025 15:24:45.996] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Sep2025 15:24:45.997] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[16Sep2025 15:24:46.034] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[16Sep2025 15:24:46.134] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[16Sep2025 15:24:46.208] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[16Sep2025 15:24:46.217] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[16Sep2025 15:24:46.272] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[16Sep2025 15:24:46.287] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[16Sep2025 15:24:46.295] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[16Sep2025 15:24:46.313] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[16Sep2025 15:24:46.336] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[16Sep2025 15:24:46.350] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[16Sep2025 15:24:46.357] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[16Sep2025 15:24:46.425] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_pillager_0 is being run through DFU (hash 9a8799087055bc1c0b662ff1025e60e8957a87489b8bdf232c96ae1d9dba5305), this will cause launch time delays
+[16Sep2025 15:24:46.431] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_illusioner_0 is being run through DFU (hash 5b57aaa9c5e553e745f59ff188b11302d8f2c21d0e967d0cbe12cb2ed0ea2fdd), this will cause launch time delays
+[16Sep2025 15:24:46.433] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_evoker_0 is being run through DFU (hash 065c8a2f1129ad60292a90abb721f0f7b1940e284bfbc372c26cf733378aa8b9), this will cause launch time delays
+[16Sep2025 15:24:46.438] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_vindicator_0 is being run through DFU (hash 5519080555f6f49b68121691b863155727088187e1f7a2e203fb8a4230ce37f9), this will cause launch time delays
+[16Sep2025 15:24:46.441] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_8 is being run through DFU (hash 682efbcbbaaf852a113158214912621fa78c3664a9a8460a6c4db63eb53fd5c9), this will cause launch time delays
+[16Sep2025 15:24:46.449] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_5 is being run through DFU (hash f732cc812bd7287fec4c437823d62369d687d89df0d455f1003385295e5d42cd), this will cause launch time delays
+[16Sep2025 15:24:46.459] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_7 is being run through DFU (hash cfa57d7b986110bce746de8eaf6abefa877a4f6c3325fa1f99526177d102a38b), this will cause launch time delays
+[16Sep2025 15:24:46.467] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_0 is being run through DFU (hash b5a6afa3de17713924d893eba982f37379d7eef7bc688b977445a0ad45ba4a78), this will cause launch time delays
+[16Sep2025 15:24:46.489] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[16Sep2025 15:24:46.492] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_4 is being run through DFU (hash 88b6ea1860ba6b3976bcea9c9a19f02e318a86add91977fc5c903c8a815b6c0b), this will cause launch time delays
+[16Sep2025 15:24:46.582] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[16Sep2025 15:24:46.584] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_3 is being run through DFU (hash 35cff3363737bd03bdeed08d0a32d415485e212daaed1dbd3b222869e64e8e1f), this will cause launch time delays
+[16Sep2025 15:24:46.595] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_2 is being run through DFU (hash cd285488ceb24102abd9219847c20b5956319f8ac58c0a8e89922bcdf8b6c4bd), this will cause launch time delays
+[16Sep2025 15:24:46.601] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_1 is being run through DFU (hash 19f9f148f5cb56b57c5e81644c69ba6ba6aaf4844ab845ddff02efda68dc3b2b), this will cause launch time delays
+[16Sep2025 15:24:46.613] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_4 is being run through DFU (hash 386156950396ce23ef8dfcbf8d518e8ec111de34af801d17e1c60d7577b6ad74), this will cause launch time delays
+[16Sep2025 15:24:46.619] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_room_6 is being run through DFU (hash 3903ddc52c72f424c20a4239dc879b35d4c7994d3e3bcf4df54d32eb23c7eb78), this will cause launch time delays
+[16Sep2025 15:24:46.643] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[16Sep2025 15:24:46.644] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_5 is being run through DFU (hash b4a009e2eecb4ec4437f1771c761cfe2f42474271dca9149144326e72dd80dc1), this will cause launch time delays
+[16Sep2025 15:24:46.654] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_7 is being run through DFU (hash 5b1070104d750668ed54be1b44e6c7bd81607dd0e3fb8597049003c5584e8bf2), this will cause launch time delays
+[16Sep2025 15:24:46.656] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_6 is being run through DFU (hash a7c6aed6a808d6d98592a035d5cceba8235df85fd227d446acb56969828f4b0e), this will cause launch time delays
+[16Sep2025 15:24:46.742] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[16Sep2025 15:24:46.784] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[16Sep2025 15:24:46.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[16Sep2025 15:24:46.881] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[16Sep2025 15:24:46.929] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[16Sep2025 15:24:47.020] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[16Sep2025 15:24:47.039] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_1
+[16Sep2025 15:24:47.042] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_3_stairs
+[16Sep2025 15:24:47.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_0
+[16Sep2025 15:24:47.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_room_2
+[16Sep2025 15:24:47.050] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_crossing is being run through DFU (hash 3813f1a2eba981b289e5f97c435bf8a640fed97183bfe1a7c6223b2ab2792d72), this will cause launch time delays
+[16Sep2025 15:24:47.058] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_0 is being run through DFU (hash c8f71d1dda53f8af74cc8538ef59dc6a6bd5feebc7bb2d8f408555542df7c2ca), this will cause launch time delays
+[16Sep2025 15:24:47.064] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/iron_golem_normal_0
+[16Sep2025 15:24:47.064] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/villager_normal_0
+[16Sep2025 15:24:47.077] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_top_0
+[16Sep2025 15:24:47.080] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_3 is being run through DFU (hash 4b39f4bc6ba61651707131b305838e47531a52af5e9fb5c0c925372e5cd6d438), this will cause launch time delays
+[16Sep2025 15:24:47.082] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_0 is being run through DFU (hash f95e3e1fb7a94527c198c4626097b99c33f547ab8a0417edb9401f8492279bfa), this will cause launch time delays
+[16Sep2025 15:24:47.085] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridor_terminator is being run through DFU (hash a5275b92a2de110f71279156511061f82005b8cb9aa43b6d0b2ac0dd724d8267), this will cause launch time delays
+[16Sep2025 15:24:47.089] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_2 is being run through DFU (hash b90fda1412cfffc696e13718d25ef520395726cc5ee32ff99965bf74e7b797ce), this will cause launch time delays
+[16Sep2025 15:24:47.090] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridges_deco_0 is being run through DFU (hash cc460655f3526116855635b16cf01fe1225fa6e8ecc7124c8823d2571325ead9), this will cause launch time delays
+[16Sep2025 15:24:47.094] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_crossing is being run through DFU (hash 11287f448080283ce95ab4f7cf4f32e59867a4311f92b6c40a37a2c1d106afd9), this will cause launch time delays
+[16Sep2025 15:24:47.100] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_bridge_terminator is being run through DFU (hash 26c9d00c32a65e0905dd806c9873a43809b98540922efb3df79ae820c61f950d), this will cause launch time delays
+[16Sep2025 15:24:47.106] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_0 is being run through DFU (hash 84c1c480b6f5e6aa0b6416c8cdf6ef1e157c817558c62d31b10e94d8681b2290), this will cause launch time delays
+[16Sep2025 15:24:47.107] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_deco_empty is being run through DFU (hash 5eca31e6512c853db410fc6913f5137878379dc4feccda0a6896c9e88c57ca53), this will cause launch time delays
+[16Sep2025 15:24:47.108] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_corridors_deco_1 is being run through DFU (hash 0a840ff64a7ac143b2d7f70a7de4ff7cf02906f3d8b09e6df28d7444a111c142), this will cause launch time delays
+[16Sep2025 15:24:47.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3075ms or 61 ticks behind
+[16Sep2025 15:24:52.022] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:24:59.264] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:25:27.067] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:25:44.966] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:26:28.791] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[16Sep2025 15:26:39.090] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_13
+[16Sep2025 15:27:06.035] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_0 is being run through DFU (hash 56399e8a7ad4cb5f3492fcdba2c3ed9f13aa33d4f675142c5ec2160b7ba36988), this will cause launch time delays
+[16Sep2025 15:27:06.158] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_pillager_0 is being run through DFU (hash 4f6418d8793538812f40b3cad48d103447de9054e0e7920d296a2a60cba50fe8), this will cause launch time delays
+[16Sep2025 15:27:06.162] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_4 is being run through DFU (hash 7f2025ab1d354267130f1a96c309e6ab7d6afe06ea925aaa7836305d25745969), this will cause launch time delays
+[16Sep2025 15:27:06.246] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_3 is being run through DFU (hash 8bc9932226adcc9f828b30bf861fd128616101a3cf3a24f4549a7583f0b88dfb), this will cause launch time delays
+[16Sep2025 15:27:06.250] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_2 is being run through DFU (hash 49d608108637cabd9be898562076920feec7ea873c9a8556f11c2f6c51104cf1), this will cause launch time delays
+[16Sep2025 15:27:06.256] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_field_1 is being run through DFU (hash 838e46056670e5e4d0733967cc594841e9e552d6ffd62c9a752a5326e0169017), this will cause launch time delays
+[16Sep2025 15:27:06.265] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_vindicator_1 is being run through DFU (hash 1129a2cdccc6062b097dca606c97e7dba621e451413d3846830d33de61225eab), this will cause launch time delays
+[16Sep2025 15:27:06.268] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_witch_2 is being run through DFU (hash 0b6e8fb951eb52bd628ece6dac3281894833c4fc6d12d1f3c35bb4171a3c8bfd), this will cause launch time delays
+[16Sep2025 15:27:06.337] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_windmill/illager_windmill_part_1 is being run through DFU (hash aab7a31f17e08b142bdbd3cd6cd6527bfe6694a16e52232355ec3bd07f61e701), this will cause launch time delays
+[16Sep2025 15:27:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to Naxoxh7]
+[16Sep2025 15:27:43.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [The Lighthouse]
+[16Sep2025 15:27:51.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 15:27:51.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 15:29:23.978] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:26.228] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:32.228] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:32.872] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:32.872] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:33.621] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:33.622] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:33.622] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:33.622] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:33.623] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:33.623] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:33.624] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:42.241] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:42.576] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:42.989] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:42.989] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:42.990] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:44.505] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:45.426] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:29:45.427] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
