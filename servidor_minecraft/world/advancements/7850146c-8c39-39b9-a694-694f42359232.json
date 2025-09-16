@@ -175,6 +175,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-09-16 19:11:53 +0000",
       "minecraft:creeper": "2025-09-16 18:54:47 +0000",
       "minecraft:zombie": "2025-09-16 18:54:18 +0000"
     },
@@ -1121,6 +1122,7 @@
     "criteria": {
       "minecraft:river": "2025-09-16 19:03:14 +0000",
       "minecraft:snowy_plains": "2025-09-16 18:31:17 +0000",
+      "minecraft:meadow": "2025-09-16 19:10:05 +0000",
       "minecraft:plains": "2025-09-16 18:31:29 +0000"
     },
     "done": false
