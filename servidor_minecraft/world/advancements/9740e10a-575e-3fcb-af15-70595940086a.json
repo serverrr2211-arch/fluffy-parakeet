@@ -7173,9 +7173,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-09-16 14:07:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
@@ -7221,6 +7233,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-09-16 14:11:49 +0000"
@@ -7257,9 +7275,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
@@ -7269,9 +7305,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-09-16 14:22:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
@@ -7293,9 +7341,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-09-16 14:33:44 +0000"
     },
     "done": true
   },
@@ -7308,6 +7398,12 @@
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-09-16 14:02:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
@@ -7335,6 +7431,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-16 14:22:54 +0000"
@@ -7350,6 +7458,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-09-16 14:03:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
@@ -7383,15 +7497,51 @@
     },
     "done": true
   },
+  "hoppergadgetry:recipes/transportation/chute_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/transportation/grated_hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
@@ -7413,6 +7563,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
@@ -7422,6 +7578,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-09-16 14:04:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
