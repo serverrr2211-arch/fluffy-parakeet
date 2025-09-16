@@ -2345,3 +2345,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Sep2025 03:22:19.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to aleepro]
 [16Sep2025 03:24:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported Vheedand to aleepro]
 [16Sep2025 03:25:33.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported 3 entities to aleepro]
+[16Sep2025 03:26:25.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 03:26:56.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 03:27:02.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro moved wrongly!
+[16Sep2025 03:27:38.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninjananja[/127.175.103.74:38489] logged in with entity id 43228 at (-885.2071415679912, 62.0, -421.6616394590664)
+[16Sep2025 03:27:38.892] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ninjananja
+[16Sep2025 03:27:38.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja joined the game
+[16Sep2025 03:27:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:27:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:27:44.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninjananja lost connection: Disconnected
+[16Sep2025 03:27:44.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja left the game
+[16Sep2025 03:31:38.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninjananja[/127.175.103.74:53789] logged in with entity id 43455 at (-885.2071415679912, 62.0, -421.6616394590664)
+[16Sep2025 03:31:38.277] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ninjananja
+[16Sep2025 03:31:38.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja joined the game
+[16Sep2025 03:31:38.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:31:38.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:31:43.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninjananja lost connection: Disconnected
+[16Sep2025 03:31:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja left the game
+[16Sep2025 03:32:10.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> 5-2-4-3
+[16Sep2025 03:34:38.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> 512483
+[16Sep2025 03:34:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> 512483
+[16Sep2025 03:35:27.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> 512473
