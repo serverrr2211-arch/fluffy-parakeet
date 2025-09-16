@@ -1,0 +1,167 @@
+{
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:arc_charge_block": {
+    "criteria": {
+      "arc_upgrade": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:armor_constructor": {
+    "criteria": {
+      "arc_reactor": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:ia_tarjet": {
+    "criteria": {
+      "ia tarjet": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:arc_reactor_root": {
+    "criteria": {
+      "arc_reactor": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:root": {
+    "criteria": {
+      "0": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "alienevo:alien_evolution": {
+    "criteria": {
+      "tick": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-09-16 18:04:25 +0000",
+      "inv_changed-diamond": "2025-09-16 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-09-16 18:04:26 +0000",
+      "minecraft:plains": "2025-09-16 18:05:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "alienevo:discover_pod": {
+    "criteria": {
+      "find_pod": "2025-09-16 18:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-09-16 18:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-16 18:07:24 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

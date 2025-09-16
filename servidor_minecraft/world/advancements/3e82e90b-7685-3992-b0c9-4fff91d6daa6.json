@@ -73,13 +73,16 @@
       "minecraft:dripstone_caves": "2025-09-15 23:45:46 +0000",
       "minecraft:cold_ocean": "2025-09-09 02:01:38 +0000",
       "minecraft:forest": "2025-09-09 22:30:00 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-16 17:43:55 +0000",
       "minecraft:ice_spikes": "2025-09-09 01:26:16 +0000",
       "minecraft:frozen_ocean": "2025-09-09 02:01:25 +0000",
       "minecraft:deep_frozen_ocean": "2025-09-16 02:52:32 +0000",
       "minecraft:jungle": "2025-09-09 22:45:42 +0000",
       "minecraft:ocean": "2025-09-09 22:44:24 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-16 17:27:28 +0000",
       "minecraft:snowy_beach": "2025-09-09 01:26:14 +0000",
       "minecraft:windswept_savanna": "2025-09-09 22:47:58 +0000",
+      "minecraft:flower_forest": "2025-09-16 16:44:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-09 22:49:55 +0000",
       "minecraft:meadow": "2025-09-09 22:36:55 +0000",
       "minecraft:savanna": "2025-09-09 22:47:37 +0000",
@@ -4462,6 +4465,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-09-16 17:26:46 +0000",
       "illager_camp": "2025-09-11 02:40:11 +0000"
     },
     "done": false
@@ -4487,12 +4491,6 @@
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-09-11 02:42:02 +0000"
-    },
-    "done": true
-  },
-  "alienevo:galvan_capsule": {
-    "criteria": {
-      "find_galvan_capsule": "2025-09-11 02:45:45 +0000"
     },
     "done": true
   },
@@ -8401,6 +8399,169 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-09-16 03:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_coffee_table": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_park_bench": {
+    "criteria": {
+      "has_planks": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_chair": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_blinds": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_table": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_crate": {
+    "criteria": {
+      "has_log": "2025-09-16 16:31:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-09-16 16:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-09-16 16:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-09-16 16:45:03 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-09-16 17:17:29 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-09-16 17:17:29 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-09-16 17:17:29 +0000"
+    },
+    "done": true
+  },
+  "alienevo:alien_evolution": {
+    "criteria": {
+      "tick": "2025-09-16 17:17:29 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-09-16 17:17:29 +0000",
+      "inv_changed-diamond": "2025-09-16 17:17:29 +0000"
+    },
+    "done": true
+  },
+  "alienevo:discover_pod": {
+    "criteria": {
+      "find_pod": "2025-09-16 17:26:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-09-16 17:29:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2025-09-16 18:10:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_glass": {
+    "criteria": {
+      "gustmaker": "2025-09-16 18:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-09-16 18:09:55 +0000"
     },
     "done": true
   },
