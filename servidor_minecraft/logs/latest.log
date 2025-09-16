@@ -2366,3 +2366,151 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Sep2025 03:34:38.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> 512483
 [16Sep2025 03:34:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> 512483
 [16Sep2025 03:35:27.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> 512473
+[16Sep2025 03:42:13.276] [Netty Epoll Server IO #5/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 98
+java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m_263231_(net.minecraft.network.FriendlyByteBuf)" because "p_263402_" is null
+	at net.minecraft.network.protocol.game.ClientboundSoundPacket.m_263212_(ClientboundSoundPacket.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_263218_(FriendlyByteBuf.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSoundPacket.m_5779_(ClientboundSoundPacket.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_$mixinextras$wrapped$51(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.mixinextras$bridge$m_243087_$mixinextras$wrapped$51$52(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.wrapMethod$bdp000$modernfix$checkClientPresence(Connection.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.m_243087_(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Sep2025 03:42:13.276] [Netty Epoll Server IO #4/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 98
+java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m_263231_(net.minecraft.network.FriendlyByteBuf)" because "p_263402_" is null
+	at net.minecraft.network.protocol.game.ClientboundSoundPacket.m_263212_(ClientboundSoundPacket.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_263218_(FriendlyByteBuf.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSoundPacket.m_5779_(ClientboundSoundPacket.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_$mixinextras$wrapped$51(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.mixinextras$bridge$m_243087_$mixinextras$wrapped$51$52(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.wrapMethod$bdp000$modernfix$checkClientPresence(Connection.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.m_243087_(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Sep2025 03:42:13.276] [Netty Epoll Server IO #6/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 98
+java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m_263231_(net.minecraft.network.FriendlyByteBuf)" because "p_263402_" is null
+	at net.minecraft.network.protocol.game.ClientboundSoundPacket.m_263212_(ClientboundSoundPacket.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.FriendlyByteBuf.m_263218_(FriendlyByteBuf.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.game.ClientboundSoundPacket.m_5779_(ClientboundSoundPacket.java:46) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.m_243087_$mixinextras$wrapped$51(Connection.java:224) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.mixinextras$bridge$m_243087_$mixinextras$wrapped$51$52(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.wrapMethod$bdp000$modernfix$checkClientPresence(Connection.java:534) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.m_243087_(Connection.java) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:213) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Sep2025 03:42:13.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m_263231_(net.minecraft.network.FriendlyByteBuf)" because "p_263402_" is null
+[16Sep2025 03:42:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 left the game
+[16Sep2025 03:42:13.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m_263231_(net.minecraft.network.FriendlyByteBuf)" because "p_263402_" is null
+[16Sep2025 03:42:13.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand left the game
+[16Sep2025 03:42:13.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro lost connection: Internal Exception: io.netty.handler.codec.EncoderException: java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m_263231_(net.minecraft.network.FriendlyByteBuf)" because "p_263402_" is null
+[16Sep2025 03:42:13.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro left the game
+[16Sep2025 03:42:23.179] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.70.185.191:45241] logged in with entity id 43655 at (-4497.873392111029, 43.0, 2519.87450991794)
+[16Sep2025 03:42:23.219] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
+[16Sep2025 03:42:23.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
+[16Sep2025 03:42:23.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:42:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:42:26.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:38773] logged in with entity id 43656 at (-4489.432114052701, 57.741488173007966, 2520.3753527443278)
+[16Sep2025 03:42:26.281] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[16Sep2025 03:42:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[16Sep2025 03:42:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:42:26.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:43:03.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aleepro[/127.22.19.211:56339] logged in with entity id 43657 at (-4491.5, 56.0, 2525.5)
+[16Sep2025 03:43:03.233] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aleepro
+[16Sep2025 03:43:03.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro joined the game
+[16Sep2025 03:43:03.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:43:03.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:43:39.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninjananja[/127.175.103.74:54089] logged in with entity id 43658 at (-885.2071415679912, 62.0, -421.6616394590664)
+[16Sep2025 03:43:39.919] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ninjananja
+[16Sep2025 03:43:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja joined the game
+[16Sep2025 03:43:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:43:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:43:45.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninjananja lost connection: Disconnected
+[16Sep2025 03:43:45.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja left the game
+[16Sep2025 03:44:21.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> mypowers
+[16Sep2025 03:44:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> celestialsapiens
+[16Sep2025 03:44:49.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninjananja[/127.175.103.74:55433] logged in with entity id 43844 at (-885.2071415679912, 62.0, -421.6616394590664)
+[16Sep2025 03:44:49.270] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ninjananja
+[16Sep2025 03:44:49.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja joined the game
+[16Sep2025 03:44:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:44:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:44:54.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninjananja lost connection: Disconnected
+[16Sep2025 03:44:54.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja left the game

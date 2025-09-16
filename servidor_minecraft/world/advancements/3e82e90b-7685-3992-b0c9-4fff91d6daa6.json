@@ -8284,27 +8284,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-09-16 03:03:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dark_oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-09-16 03:03:44 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-09-16 02:56:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
-      "has_netherite_scrap": "2025-09-16 03:03:44 +0000"
+      "has_sapphire_gem": "2025-09-16 02:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-16 03:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-16 03:03:20 +0000"
     },
     "done": true
   },
@@ -8338,12 +8338,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-09-16 03:03:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-09-16 03:03:20 +0000"
@@ -8368,21 +8362,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2025-09-16 02:56:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-09-16 03:03:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-09-16 03:15:13 +0000"
     },
     "done": true
   },
@@ -8392,15 +8374,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-09-16 03:03:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-16 03:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-16 03:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-09-16 03:03:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "has_netherite_ingot": "2025-09-16 03:03:20 +0000"
+      "lightning_rod_with_villager_no_fire": "2025-09-16 03:15:13 +0000"
     },
     "done": true
   },
