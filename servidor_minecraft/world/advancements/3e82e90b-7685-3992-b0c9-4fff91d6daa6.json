@@ -8591,6 +8591,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
+    },
+    "done": true
+  },
   "alienevo:discover_priory": {
     "criteria": {
       "find_priory": "2025-09-16 22:26:26 +0000"
@@ -8627,6 +8633,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-09-16 22:28:32 +0000"
@@ -8645,9 +8657,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-16 22:41:07 +0000"
+    },
+    "done": true
+  },
   "alienevo:recipes/machined_metal": {
     "criteria": {
       "has_upgrade_shard": "2025-09-16 22:19:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-09-16 22:37:51 +0000"
     },
     "done": true
   },
@@ -8660,6 +8696,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-16 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
     },
     "done": true
   },
@@ -8681,9 +8723,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
+    },
+    "done": true
+  },
   "alienevo:recipes/galvan_metal": {
     "criteria": {
       "has_galvan_scrap": "2025-09-16 22:21:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
     },
     "done": true
   },
@@ -8735,6 +8795,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-09-16 22:28:32 +0000"
@@ -8744,6 +8810,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-09-16 22:28:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-09-16 22:37:51 +0000"
     },
     "done": true
   },
