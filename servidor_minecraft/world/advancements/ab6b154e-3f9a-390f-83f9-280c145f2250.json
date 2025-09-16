@@ -1147,6 +1147,7 @@
       "minecraft:cave_spider": "2025-09-13 20:05:29 +0000",
       "minecraft:piglin": "2025-09-14 16:41:55 +0000",
       "minecraft:enderman": "2025-09-16 02:59:09 +0000",
+      "minecraft:silverfish": "2025-09-16 14:10:55 +0000",
       "minecraft:zombie": "2025-09-09 02:31:58 +0000",
       "minecraft:zombie_villager": "2025-09-13 00:43:56 +0000"
     },
@@ -4791,7 +4792,9 @@
   },
   "hopo:minecraft/adventure/all_mineshaft": {
     "criteria": {
-      "locate_vanilla_mineshaft": "2025-09-13 20:05:45 +0000"
+      "locate_birch_mineshaft": "2025-09-16 14:03:12 +0000",
+      "locate_vanilla_mineshaft": "2025-09-13 20:05:45 +0000",
+      "locate_dark_oak_mineshaft": "2025-09-16 14:08:29 +0000"
     },
     "done": false
   },
@@ -5917,15 +5920,147 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-09-16 14:10:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-09-16 14:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-09-16 14:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-16 14:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-09-16 14:06:14 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_birch_mineshaft": "2025-09-16 14:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-16 14:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-09-16 14:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-09-16 14:07:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-09-16 13:53:43 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bat_smithing": {
+    "criteria": {
+      "has_bat": "2025-09-16 14:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-09-16 13:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-09-16 14:06:53 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/transportation/chute_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/transportation/grated_hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-09-16 14:06:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-16 14:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-09-16 14:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-09-16 14:16:46 +0000"
     },
     "done": true
   },
