@@ -2008,3 +2008,30 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [16Sep2025 02:27:20.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
 [16Sep2025 02:33:09.043] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [16Sep2025 02:33:09.843] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:36:20.583] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:36:32.680] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:37:06.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 water_bucket because there is no smelting recipe
+[16Sep2025 02:37:06.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 water_bucket because there is no smelting recipe
+[16Sep2025 02:37:06.033] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 water_bucket because there is no smelting recipe
+[16Sep2025 02:37:06.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 water_bucket because there is no smelting recipe
+[16Sep2025 02:37:06.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 water_bucket because there is no smelting recipe
+[16Sep2025 02:38:07.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 armor_stand because there is no smelting recipe
+[16Sep2025 02:38:07.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 armor_stand because there is no smelting recipe
+[16Sep2025 02:38:07.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 armor_stand because there is no smelting recipe
+[16Sep2025 02:38:07.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 armor_stand because there is no smelting recipe
+[16Sep2025 02:38:07.337] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 armor_stand because there is no smelting recipe
+[16Sep2025 02:39:38.135] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:39:52.081] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:39:53.379] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:39:54.029] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:39:56.530] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:39:58.030] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:42:10.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 02:42:37.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 02:42:50.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 02:42:57.433] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[16Sep2025 02:43:07.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Naxoxh7]
+[16Sep2025 02:43:49.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 02:43:56.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 02:44:32.441] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:44:47.631] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
