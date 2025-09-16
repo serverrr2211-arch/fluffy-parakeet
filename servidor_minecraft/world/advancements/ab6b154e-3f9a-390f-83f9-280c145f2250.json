@@ -5875,12 +5875,6 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-09-16 13:39:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-09-16 13:37:23 +0000"
@@ -5908,6 +5902,30 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-09-16 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-09-16 13:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-16 13:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-16 13:53:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-09-16 13:53:43 +0000"
     },
     "done": true
   },
