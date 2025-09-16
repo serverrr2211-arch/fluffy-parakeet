@@ -2035,3 +2035,236 @@ com.google.gson.JsonParseException: Unknown suit set 'satsu_iron_man_addon:marks
 [16Sep2025 02:43:56.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
 [16Sep2025 02:44:32.441] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [16Sep2025 02:44:47.631] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:45:11.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kineceleran> a
+[16Sep2025 02:45:16.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kineceleran drowned
+[16Sep2025 02:45:16.145] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kineceleran with unique ID travelersbackpack.cactus_16.09.2025-02.45.16.dat
+[16Sep2025 02:45:17.487] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Sep2025 02:45:20.036] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:45:22.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -883.500000, 68.500000, -414.500000]
+[16Sep2025 02:45:26.748] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 1
+	Listeners:
+		0: HIGH
+		1: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		3: ASM: class com.simibubi.create.content.contraptions.minecart.MinecartCouplingItem handleInteractionWithMinecart(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: team.creative.playerrevive.server.ReviveEventServer@2a4f2958 playerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@3da119eb onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@66dd552 onPlayerRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@61304102 onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: ASM: class net.mcreator.rusticengineer.procedures.RightclickGoldenBotProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		10: ASM: class net.mcreator.rusticengineer.procedures.RemoveChestGoldenBotProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		11: ASM: class net.mcreator.rusticengineer.procedures.PlaceChestGoldenBotProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		12: ASM: class net.mcreator.rusticengineer.procedures.FunctionToolMechProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		13: ASM: class net.mcreator.rusticengineer.procedures.CollectMachinesProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		14: ASM: class com.simibubi.create.content.contraptions.mounted.MinecartContraptionItem wrenchCanBeUsedToPickUpMinecartContraptions(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		15: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@2df4024c onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		16: net.minecraftforge.eventbus.EventBus$$Lambda$1537/0x00007facfc697c58@2aef8300
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$256(MinecraftServer.java)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.wrapOperation$bao000$managedBlock(MinecraftServer.java:1856)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[16Sep2025 02:45:26.750] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@5d22d2fc, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23168!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23168!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23168!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23226!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$256(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$bao000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16Sep2025 02:46:14.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Set own game mode to Spectator Mode]
+[16Sep2025 02:46:56.279] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:47:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Set own game mode to Survival Mode]
+[16Sep2025 02:49:24.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand lost connection: Disconnected
+[16Sep2025 02:49:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand left the game
+[16Sep2025 02:49:29.347] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:59831] logged in with entity id 17096 at (-771.2697012318115, 92.63731968740848, -358.32006243458744)
+[16Sep2025 02:49:29.391] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[16Sep2025 02:49:29.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[16Sep2025 02:49:29.436] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[16Sep2025 02:49:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 02:49:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 02:49:45.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Killed aleepro]
+[16Sep2025 02:49:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported aleepro to Vheedand]
+[16Sep2025 02:49:57.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> asdf
+[16Sep2025 02:49:59.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Killed aleepro]
+[16Sep2025 02:49:59.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Killed aleepro]
+[16Sep2025 02:50:01.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand lost connection: Disconnected
+[16Sep2025 02:50:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand left the game
+[16Sep2025 02:50:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand fell from a high place
+[16Sep2025 02:50:01.696] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Vheedand with unique ID travelersbackpack.cactus_16.09.2025-02.50.01.dat
+[16Sep2025 02:50:07.697] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vheedand[/127.154.92.121:42893] logged in with entity id 17404 at (-769.2608363060061, 64.54481405553305, -359.90507861037105)
+[16Sep2025 02:50:07.739] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Vheedand
+[16Sep2025 02:50:07.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand joined the game
+[16Sep2025 02:50:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 02:50:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 02:50:14.589] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Sep2025 02:50:18.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -769.500000, 64.500000, -359.500000]
+[16Sep2025 02:50:19.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Naxoxh7]
+[16Sep2025 02:50:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Naxoxh7]
+[16Sep2025 02:50:22.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro lost connection: Disconnected
+[16Sep2025 02:50:22.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro left the game
+[16Sep2025 02:50:27.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aleepro[/127.22.19.211:43545] logged in with entity id 17824 at (-873.4231294554938, 67.0, -402.86250001192093)
+[16Sep2025 02:50:27.560] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player aleepro
+[16Sep2025 02:50:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro joined the game
+[16Sep2025 02:50:27.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 02:50:27.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 02:50:33.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to aleepro]
+[16Sep2025 02:50:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[16Sep2025 02:50:56.046] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:50:57.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> jarvis
+[16Sep2025 02:51:00.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> full energy thrust
+[16Sep2025 02:51:09.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> jarvis auto destruyete
+[16Sep2025 02:51:17.042] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:21.047] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:26.196] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:34.995] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:37.048] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:37.446] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:42.748] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:44.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> jarvis
+[16Sep2025 02:51:47.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> jarvis
+[16Sep2025 02:51:48.046] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:51:48.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> reroute power to thrusters
+[16Sep2025 02:51:52.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> reroute power to thrusters
+[16Sep2025 02:52:07.638] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:52:20.652] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:53:03.626] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:53:13.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 02:53:15.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand was doomed to fall by The Boiled One
+[16Sep2025 02:53:15.384] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Vheedand with unique ID travelersbackpack.cactus_16.09.2025-02.53.15.dat
+[16Sep2025 02:53:18.161] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Sep2025 02:53:20.365] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:53:22.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to 636.500000, 84.500000, -112.500000]
+[16Sep2025 02:54:42.691] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:54:43.452] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:54:45.590] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:54:46.760] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:54:53.063] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:54:56.275] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:04.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro moved too quickly! 8.412339959704013,-6.0268701848582396,2.19846137156091
+[16Sep2025 02:55:07.383] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:14.457] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:15.551] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:17.710] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:19.806] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:29.891] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:34.843] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:36.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=53, z=236} BlockPos{x=1764, y=50, z=238}
+[16Sep2025 02:55:36.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=53, z=236} BlockPos{x=1764, y=50, z=238}
+[16Sep2025 02:55:36.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=53, z=236} BlockPos{x=1764, y=50, z=238}
+[16Sep2025 02:55:36.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=53, z=236} BlockPos{x=1764, y=50, z=238}
+[16Sep2025 02:55:36.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=53, z=236} BlockPos{x=1764, y=50, z=238}
+[16Sep2025 02:55:42.958] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:55:52.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=40, z=250} BlockPos{x=1764, y=41, z=250}
+[16Sep2025 02:55:52.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=43, z=248} BlockPos{x=1764, y=41, z=250}
+[16Sep2025 02:55:52.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=43, z=248} BlockPos{x=1764, y=39, z=250}
+[16Sep2025 02:55:52.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1764, y=39, z=250} BlockPos{x=1764, y=40, z=250}
+[16Sep2025 02:55:58.791] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:56:03.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1756, y=25, z=255} BlockPos{x=1756, y=26, z=255}
+[16Sep2025 02:56:03.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1756, y=25, z=255} BlockPos{x=1756, y=26, z=255}
+[16Sep2025 02:56:05.704] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:56:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> nachito taba grandiosamente curao e inspiaro
+[16Sep2025 02:56:16.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> :3
+[16Sep2025 02:56:19.102] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:56:37.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Teleported Pyronite to aleepro]
+[16Sep2025 02:56:38.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Eye Spy]
+[16Sep2025 02:57:00.588] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:57:02.840] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:57:03.791] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:57:05.105] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:57:07.104] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:57:25.001] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:57:27.850] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:57:58.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Mother of Dragons]
+[16Sep2025 02:58:02.242] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:58:22.393] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:58:35.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> cuero, mejora de mochila + cualquier ore + en mesa de herreria
+[16Sep2025 02:58:40.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27292, l='ServerLevel[world]', x=1827.72, y=139.98, z=432.35]
+[16Sep2025 02:58:40.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27293, l='ServerLevel[world]', x=1826.23, y=140.01, z=432.65]
+[16Sep2025 02:58:40.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27296, l='ServerLevel[world]', x=1828.29, y=138.39, z=432.05]
+[16Sep2025 02:58:40.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27297, l='ServerLevel[world]', x=1827.31, y=138.00, z=432.34]
+[16Sep2025 02:58:40.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27298, l='ServerLevel[world]', x=1825.80, y=138.16, z=432.03]
+[16Sep2025 02:58:40.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/27299, l='ServerLevel[world]', x=1824.68, y=137.91, z=432.27]
+[16Sep2025 02:58:41.632] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:58:52.349] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:59:09.208] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:59:50.891] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:59:53.038] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:59:53.589] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:59:54.236] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:59:57.838] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 02:59:58.238] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:00:00.145] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:00:00.192] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:00:13.538] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:00:18.136] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:00:19.155] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:00:20.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite died
+[16Sep2025 03:00:20.204] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Pyronite with unique ID travelersbackpack.cactus_16.09.2025-03.00.20.dat
+[16Sep2025 03:00:21.862] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Sep2025 03:00:24.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to 1735.500000, 10.500000, 255.500000]
+[16Sep2025 03:01:04.542] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:01:11.047] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:01:14.748] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:01:53.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> xaero-waypoint:EL FIN:E:1742:10:248:5:false:0:Internal-overworld-waypoints
+[16Sep2025 03:02:07.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to -893.500000, 64.500000, -394.500000]
+[16Sep2025 03:02:52.994] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:03:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro has made the advancement [Suit Up]
+[16Sep2025 03:03:47.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro has completed the challenge [Serious Dedication]
+[16Sep2025 03:03:52.448] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:04:25.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -891.500000, 64.500000, -395.500000]
