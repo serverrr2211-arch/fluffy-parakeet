@@ -27,6 +27,7 @@
       "minecraft:deep_frozen_ocean": "2025-09-16 02:52:32 +0000",
       "minecraft:jungle": "2025-09-14 16:41:47 +0000",
       "minecraft:snowy_beach": "2025-09-16 02:53:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-16 15:03:01 +0000",
       "minecraft:meadow": "2025-09-09 02:30:58 +0000",
       "minecraft:savanna": "2025-09-16 13:37:38 +0000",
       "minecraft:plains": "2025-09-09 02:15:41 +0000"
@@ -5914,6 +5915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-16 15:06:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-09-16 14:18:28 +0000"
@@ -5926,9 +5933,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-09-16 14:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-16 15:06:34 +0000"
     },
     "done": true
   },
@@ -5950,15 +5975,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-09-16 14:18:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-16 15:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-09-16 14:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
     },
     "done": true
   },
@@ -5971,6 +6014,12 @@
   "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-09-16 14:18:28 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/basic_battery": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
     },
     "done": true
   },
@@ -6016,6 +6065,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-16 15:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-16 15:06:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-16 14:06:14 +0000"
@@ -6025,6 +6092,18 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-16 15:06:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-09-16 15:07:12 +0000"
     },
     "done": true
   },
@@ -6049,6 +6128,12 @@
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-09-16 14:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
     },
     "done": true
   },
@@ -6082,9 +6167,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-16 15:00:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-09-16 14:09:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
     },
     "done": true
   },
@@ -6106,6 +6209,12 @@
     },
     "done": true
   },
+  "palladium:recipes/misc/purple_dye_from_heart_shaped_herb": {
+    "criteria": {
+      "has_flower": "2025-09-16 14:58:08 +0000"
+    },
+    "done": true
+  },
   "hoppergadgetry:recipes/transportation/chute_minecart": {
     "criteria": {
       "has_minecart": "2025-09-16 14:09:49 +0000"
@@ -6115,6 +6224,12 @@
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-09-16 14:18:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
     },
     "done": true
   },
@@ -6148,15 +6263,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
       "has_sherd": "2025-09-16 14:06:53 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-09-16 14:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-16 15:06:34 +0000"
     },
     "done": true
   },
@@ -6196,6 +6329,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-09-16 15:07:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-09-16 14:18:28 +0000"
@@ -6205,6 +6344,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-09-16 14:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-16 15:07:12 +0000"
     },
     "done": true
   },

@@ -2667,3 +2667,52 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [16Sep2025 14:58:55.211] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [16Sep2025 14:58:57.920] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [16Sep2025 14:59:00.429] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 14:59:57.978] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:08.510] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:15.859] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:26.220] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:29.433] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/54886, l='ServerLevel[world]', x=-4820.52, y=0.00, z=16921.70] died, message: 'Villager was shot by Pillager'
+[16Sep2025 15:00:29.434] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:31.006] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:35.842] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:39.503] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:43.781] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:00:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand has made the advancement [Mine? Mine? Mine?]
+[16Sep2025 15:00:47.548] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:01:09.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to Vheedand]
+[16Sep2025 15:01:22.031] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:01:54.224] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:02:06.771] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:02:20.167] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:02:48.259] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -5082,60,17174,minecraft:overworld as filled
+[16Sep2025 15:03:01.022] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:03:13.623] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:12.923] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:19.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Alex's Mobs]
+[16Sep2025 15:04:40.826] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:40.981] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:41.076] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:47.580] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:49.540] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:51.333] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:51.334] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:51.334] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:51.335] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:04:51.335] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:05:26.185] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:05:54.290] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4986,65,17482,minecraft:overworld as filled
+[16Sep2025 15:06:04.771] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:06:32.524] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:06:32.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/59088, l='ServerLevel[world]', x=-5001.04, y=18.00, z=17474.60] died: Machine Scout suffocated in a wall
+[16Sep2025 15:06:45.577] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:06:45.577] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/59144, l='ServerLevel[world]', x=-5004.38, y=15.00, z=17478.95] died: Machine Scout was slain by Vheedand
+[16Sep2025 15:06:46.600] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:06:46.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/58941, l='ServerLevel[world]', x=-5001.71, y=15.00, z=17479.38] died: Machine Soldier was slain by Vheedand
+[16Sep2025 15:07:16.290] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:07:17.176] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4990,16,17479,minecraft:overworld as filled
+[16Sep2025 15:07:20.481] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:07:27.173] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:07:27.174] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:07:28.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to Naxoxh7]
+[16Sep2025 15:07:51.722] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 15:09:00.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to Naxoxh7]
