@@ -7910,9 +7910,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2025-09-16 18:48:31 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/upgrade_chip": {
+    "criteria": {
+      "has_upgrade_crystal": "2025-09-16 18:48:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2025-09-16 17:38:55 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/color_modules": {
+    "criteria": {
+      "has_upgrade_crystal": "2025-09-16 18:48:34 +0000"
     },
     "done": true
   },
@@ -7946,6 +7964,12 @@
     },
     "done": true
   },
+  "alienevo:recipes/machined_panel": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-16 18:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-09-16 18:15:12 +0000"
@@ -7955,6 +7979,12 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-09-16 17:22:47 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/machined_metal": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-16 18:50:23 +0000"
     },
     "done": true
   },
@@ -8024,6 +8054,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-09-16 18:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-09-16 17:54:39 +0000"
@@ -8054,6 +8090,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-09-16 18:48:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-09-16 17:54:39 +0000"
@@ -8063,6 +8105,12 @@
   "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {
       "has_item": "2025-09-16 17:38:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-09-16 18:48:31 +0000"
     },
     "done": true
   },
@@ -8087,6 +8135,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-09-16 17:54:39 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/galvan_metal": {
+    "criteria": {
+      "has_galvan_scrap": "2025-09-16 18:50:22 +0000"
     },
     "done": true
   },
@@ -8129,6 +8183,18 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-09-16 18:15:12 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/omnitrix_workbench": {
+    "criteria": {
+      "has_upgrade_crystal": "2025-09-16 18:48:34 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/upgrade_crystals": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-16 18:50:23 +0000"
     },
     "done": true
   },
@@ -8196,6 +8262,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
       "has_sea_serpent_scales_green": "2025-09-16 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/galvan_pod": {
+    "criteria": {
+      "has_galvan_scrap": "2025-09-16 18:50:22 +0000"
     },
     "done": true
   },

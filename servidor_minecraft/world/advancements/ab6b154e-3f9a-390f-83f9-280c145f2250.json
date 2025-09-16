@@ -10,11 +10,14 @@
       "minecraft:mushroom_fields": "2025-09-16 18:45:48 +0000",
       "minecraft:taiga": "2025-09-13 20:23:39 +0000",
       "minecraft:deep_ocean": "2025-09-16 17:52:05 +0000",
+      "minecraft:eroded_badlands": "2025-09-16 18:51:59 +0000",
       "minecraft:frozen_river": "2025-09-09 02:15:18 +0000",
       "minecraft:cherry_grove": "2025-09-16 15:22:26 +0000",
       "minecraft:birch_forest": "2025-09-14 16:56:24 +0000",
       "minecraft:windswept_hills": "2025-09-16 16:16:00 +0000",
       "minecraft:bamboo_jungle": "2025-09-14 18:30:15 +0000",
+      "minecraft:wooded_badlands": "2025-09-16 18:51:32 +0000",
+      "minecraft:badlands": "2025-09-16 18:51:33 +0000",
       "minecraft:savanna_plateau": "2025-09-16 13:38:56 +0000",
       "minecraft:beach": "2025-09-13 20:29:49 +0000",
       "minecraft:stony_peaks": "2025-09-12 01:04:31 +0000",
@@ -6784,6 +6787,96 @@
   "alexsmobs:alexsmobs/rainbow_glass": {
     "criteria": {
       "gustmaker": "2025-09-16 18:14:17 +0000"
+    },
+    "done": true
+  },
+  "alienevo:discover_priory": {
+    "criteria": {
+      "find_priory": "2025-09-16 18:54:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-09-16 18:49:50 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/upgrade_chip": {
+    "criteria": {
+      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-16 18:49:44 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/raw_titanium_block": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-16 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_ingot_from_blasting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-16 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/machine_scroll": {
+    "criteria": {
+      "has_machine_key": "2025-09-16 18:58:22 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-09-16 18:49:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-09-16 18:48:45 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/galvan_metal": {
+    "criteria": {
+      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/omnitrix_workbench": {
+    "criteria": {
+      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-09-16 18:49:50 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_ingot_from_smelting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-16 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/galvan_pod": {
+    "criteria": {
+      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-16 18:49:50 +0000"
     },
     "done": true
   },
