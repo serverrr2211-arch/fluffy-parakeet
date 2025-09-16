@@ -4019,7 +4019,9 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-09-10 02:26:50 +0000"
+      "swamp_hut": "2025-09-16 16:05:16 +0000",
+      "illager_camp": "2025-09-10 02:26:50 +0000",
+      "witch_villa": "2025-09-16 16:04:54 +0000"
     },
     "done": false
   },
@@ -7757,9 +7759,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-09-16 16:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-09-16 15:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-09-16 16:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-09-16 16:01:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-09-16 16:01:34 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_witch_villa": {
+    "criteria": {
+      "nova_structures:witch_villa": "2025-09-16 16:04:54 +0000"
     },
     "done": true
   },
@@ -7775,9 +7807,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-09-16 16:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-09-16 15:49:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-09-16 15:24:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-09-16 16:01:34 +0000"
     },
     "done": true
   },
@@ -7793,6 +7843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-09-16 16:07:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-09-16 15:47:45 +0000"
@@ -7802,6 +7858,12 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-09-16 15:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-16 16:11:23 +0000"
     },
     "done": true
   },
