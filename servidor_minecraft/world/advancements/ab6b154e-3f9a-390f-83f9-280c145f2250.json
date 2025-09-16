@@ -11,6 +11,7 @@
       "minecraft:frozen_river": "2025-09-09 02:15:18 +0000",
       "minecraft:birch_forest": "2025-09-14 16:56:24 +0000",
       "minecraft:bamboo_jungle": "2025-09-14 18:30:15 +0000",
+      "minecraft:savanna_plateau": "2025-09-16 13:38:56 +0000",
       "minecraft:beach": "2025-09-13 20:29:49 +0000",
       "minecraft:stony_peaks": "2025-09-12 01:04:31 +0000",
       "minecraft:dark_forest": "2025-09-14 16:49:36 +0000",
@@ -5871,6 +5872,12 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-09-16 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-09-16 13:39:47 +0000"
     },
     "done": true
   },

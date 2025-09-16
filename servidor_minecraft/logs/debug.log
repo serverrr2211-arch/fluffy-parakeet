@@ -11003,3 +11003,173 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [16Sep2025 13:37:44.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Sep2025 13:37:46.125] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6
 [16Sep2025 13:37:46.160] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_1
+[16Sep2025 13:38:45.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[16Sep2025 13:38:47.454] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[16Sep2025 13:38:47.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[16Sep2025 13:38:47.464] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[16Sep2025 13:38:47.466] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[16Sep2025 13:38:47.466] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[16Sep2025 13:38:47.468] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[16Sep2025 13:38:47.468] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[16Sep2025 13:38:47.469] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[16Sep2025 13:38:47.470] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[16Sep2025 13:38:47.470] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[16Sep2025 13:38:47.471] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[16Sep2025 13:38:47.473] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[16Sep2025 13:38:47.474] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[16Sep2025 13:38:47.474] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[16Sep2025 13:38:47.475] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[16Sep2025 13:38:47.475] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[16Sep2025 13:38:47.476] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[16Sep2025 13:38:47.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[16Sep2025 13:38:47.477] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[16Sep2025 13:38:47.478] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[16Sep2025 13:38:47.479] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[16Sep2025 13:38:47.479] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[16Sep2025 13:38:47.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[16Sep2025 13:38:47.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[16Sep2025 13:38:47.480] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_snowy
+[16Sep2025 13:38:47.481] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[16Sep2025 13:38:47.482] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[16Sep2025 13:38:47.483] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[16Sep2025 13:38:47.483] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[16Sep2025 13:38:47.484] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[16Sep2025 13:38:47.484] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[16Sep2025 13:38:47.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[16Sep2025 13:38:47.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[16Sep2025 13:38:47.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[16Sep2025 13:38:47.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[16Sep2025 13:38:47.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[16Sep2025 13:38:47.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[16Sep2025 13:38:47.488] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[16Sep2025 13:38:47.488] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[16Sep2025 13:38:47.489] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[16Sep2025 13:38:47.490] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[16Sep2025 13:38:47.490] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[16Sep2025 13:38:47.490] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[16Sep2025 13:38:47.491] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[16Sep2025 13:38:47.491] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[16Sep2025 13:38:47.492] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[16Sep2025 13:38:47.492] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[16Sep2025 13:38:47.493] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[16Sep2025 13:38:47.493] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[16Sep2025 13:38:47.493] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[16Sep2025 13:38:47.494] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[16Sep2025 13:38:47.495] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[16Sep2025 13:38:47.495] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[16Sep2025 13:38:47.496] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[16Sep2025 13:38:47.496] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[16Sep2025 13:38:47.497] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[16Sep2025 13:38:47.497] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[16Sep2025 13:38:47.498] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[16Sep2025 13:38:47.498] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[16Sep2025 13:38:47.499] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[16Sep2025 13:38:47.499] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[16Sep2025 13:38:47.500] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[16Sep2025 13:38:47.500] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[16Sep2025 13:38:47.501] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[16Sep2025 13:38:47.501] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[16Sep2025 13:38:47.501] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[16Sep2025 13:38:47.502] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[16Sep2025 13:38:47.502] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[16Sep2025 13:38:47.503] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[16Sep2025 13:38:47.504] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[16Sep2025 13:38:47.504] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[16Sep2025 13:38:47.505] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[16Sep2025 13:38:47.505] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[16Sep2025 13:38:47.506] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[16Sep2025 13:38:47.506] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[16Sep2025 13:38:47.507] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[16Sep2025 13:38:47.508] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[16Sep2025 13:38:47.508] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[16Sep2025 13:38:47.509] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[16Sep2025 13:38:47.509] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[16Sep2025 13:38:47.510] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[16Sep2025 13:38:47.511] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[16Sep2025 13:38:47.511] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[16Sep2025 13:38:47.512] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_snowy
+[16Sep2025 13:38:47.512] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_snowy
+[16Sep2025 13:38:47.513] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_snowy
+[16Sep2025 13:38:47.513] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_snowy
+[16Sep2025 13:38:47.514] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[16Sep2025 13:38:47.514] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[16Sep2025 13:38:47.515] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[16Sep2025 13:38:47.515] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[16Sep2025 13:38:47.516] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[16Sep2025 13:38:47.516] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[16Sep2025 13:38:47.517] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[16Sep2025 13:38:47.518] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[16Sep2025 13:38:47.518] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[16Sep2025 13:38:47.519] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[16Sep2025 13:38:47.519] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[16Sep2025 13:38:47.520] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[16Sep2025 13:38:47.520] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[16Sep2025 13:38:47.521] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[16Sep2025 13:38:47.521] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[16Sep2025 13:38:56.869] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:39:04.959] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[16Sep2025 13:39:04.967] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[16Sep2025 13:39:32.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_4b
+[16Sep2025 13:39:39.674] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:39:42.820] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:39:47.079] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:39:47.262] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:39:47.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand has made the advancement [Masquerade]
+[16Sep2025 13:39:52.381] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:39:53.971] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:39:54.863] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:40:04.174] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -3962,59,15658,minecraft:overworld as filled
+[16Sep2025 13:40:49.513] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[16Sep2025 13:40:49.691] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[16Sep2025 13:41:06.365] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:42:44.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 13:42:44.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 13:43:32.397] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_17
+[16Sep2025 13:43:37.217] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:43:45.234] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:43:48.266] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[16Sep2025 13:43:48.461] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[16Sep2025 13:43:48.482] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[16Sep2025 13:43:48.509] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[16Sep2025 13:43:48.519] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[16Sep2025 13:43:48.605] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[16Sep2025 13:43:48.611] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[16Sep2025 13:43:48.617] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
+[16Sep2025 13:43:48.617] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_pillager_0
+[16Sep2025 13:43:48.618] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[16Sep2025 13:43:49.726] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:43:49.927] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:43:55.127] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:43:59.484] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:44:09.869] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:44:21.525] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:44:50.467] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:44:50.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/31383, l='ServerLevel[world]', x=-4017.55, y=12.00, z=15974.97] died: Machine Scout suffocated in a wall
+[16Sep2025 13:45:00.074] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:00.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/31437, l='ServerLevel[world]', x=-4023.57, y=9.00, z=15974.75] died: Machine Warrior was slain by Vheedand
+[16Sep2025 13:45:00.772] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:00.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/31268, l='ServerLevel[world]', x=-4022.99, y=9.00, z=15974.43] died: Machine Soldier was slain by Vheedand
+[16Sep2025 13:45:02.031] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:02.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/31313, l='ServerLevel[world]', x=-4022.70, y=9.00, z=15974.36] died: Machine Warrior was slain by Vheedand
+[16Sep2025 13:45:11.887] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -4023,10,15986,minecraft:overworld as filled
+[16Sep2025 13:45:14.224] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:14.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/31509, l='ServerLevel[world]', x=-4019.94, y=9.00, z=15978.46] died: Machine Soldier was slain by Vheedand
+[16Sep2025 13:45:20.874] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:20.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/31543, l='ServerLevel[world]', x=-4023.59, y=9.00, z=15976.83] died: Machine Scout was slain by Vheedand
+[16Sep2025 13:45:23.116] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:47.022] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:47.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/31584, l='ServerLevel[world]', x=-4019.75, y=9.00, z=15975.00] died: Machine Warrior was slain by Naxoxh7
+[16Sep2025 13:45:55.374] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:45:55.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/31612, l='ServerLevel[world]', x=-4019.94, y=9.00, z=15981.05] died: Machine Soldier was slain by Naxoxh7
+[16Sep2025 13:45:56.566] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:46:09.774] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:46:09.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/31643, l='ServerLevel[world]', x=-4026.19, y=9.00, z=15978.34] died: Machine Warrior was slain by Naxoxh7
+[16Sep2025 13:46:24.287] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:46:24.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/31681, l='ServerLevel[world]', x=-4025.86, y=9.00, z=15976.28] died: Machine Warrior was slain by Naxoxh7
+[16Sep2025 13:47:28.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to Vheedand]
+[16Sep2025 13:47:33.075] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:47:44.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 13:47:44.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 13:48:06.036] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[16Sep2025 13:48:06.052] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[16Sep2025 13:48:06.055] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
