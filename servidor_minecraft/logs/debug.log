@@ -10871,3 +10871,135 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [16Sep2025 13:27:41.012] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
 [16Sep2025 13:27:44.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Sep2025 13:27:44.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 13:27:59.012] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:28:32.261] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:28:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Vheedand's superpower(s) was removed]
+[16Sep2025 13:32:26.664] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:32:44.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 13:32:44.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 13:34:44.169] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:35:38.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -1489.500000, 10.500000, -458.500000]
+[16Sep2025 13:35:40.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[16Sep2025 13:35:40.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[16Sep2025 13:35:40.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_5
+[16Sep2025 13:35:42.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[16Sep2025 13:35:42.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[16Sep2025 13:35:42.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[16Sep2025 13:35:42.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[16Sep2025 13:35:42.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[16Sep2025 13:35:42.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[16Sep2025 13:35:42.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_2
+[16Sep2025 13:35:42.693] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:35:43.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -3854.500000, 162.500000, 12470.500000]
+[16Sep2025 13:35:44.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_test_zone
+[16Sep2025 13:35:44.114] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_roof
+[16Sep2025 13:35:44.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_floor_helper
+[16Sep2025 13:35:44.121] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_interior_blocker
+[16Sep2025 13:35:44.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_center_back_3way
+[16Sep2025 13:35:44.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_3way
+[16Sep2025 13:35:44.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_straight_center
+[16Sep2025 13:35:44.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_corner
+[16Sep2025 13:35:44.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_3way_center
+[16Sep2025 13:35:44.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_accent
+[16Sep2025 13:35:44.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_connector_gap
+[16Sep2025 13:35:44.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_straight
+[16Sep2025 13:35:44.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_crown
+[16Sep2025 13:35:44.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_wall_connector
+[16Sep2025 13:35:44.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window_tall
+[16Sep2025 13:35:44.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_blank
+[16Sep2025 13:35:44.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window1
+[16Sep2025 13:35:44.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window_short
+[16Sep2025 13:35:44.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_tower_stairs_1
+[16Sep2025 13:35:44.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_tower_stairs_2
+[16Sep2025 13:35:44.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_room_stairs_2
+[16Sep2025 13:35:44.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_room_stairs_1
+[16Sep2025 13:35:44.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_landing
+[16Sep2025 13:35:44.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_partition
+[16Sep2025 13:35:44.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk_4
+[16Sep2025 13:35:44.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_gap
+[16Sep2025 13:35:44.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/monastery_tower_window1_center
+[16Sep2025 13:35:44.322] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk_2
+[16Sep2025 13:35:44.323] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk_3
+[16Sep2025 13:35:44.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:monastery/interior/monastery_desk
+[16Sep2025 13:35:45.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[16Sep2025 13:35:45.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[16Sep2025 13:35:45.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[16Sep2025 13:35:45.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_1
+[16Sep2025 13:35:45.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[16Sep2025 13:36:07.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Naxoxh7: Teleported Naxoxh7 to -3921.500000, 67.500000, 15511.500000]
+[16Sep2025 13:36:08.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_3
+[16Sep2025 13:36:09.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[16Sep2025 13:36:10.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[16Sep2025 13:36:20.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> xaero-waypoint:lejos:L:-3922:67:15511:9:false:0:Internal-overworld-waypoints
+[16Sep2025 13:36:24.614] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alienevo:ship2
+[16Sep2025 13:36:24.618] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alienevo:ship1
+[16Sep2025 13:36:24.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alienevo:ship4
+[16Sep2025 13:36:24.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alienevo:ship3
+[16Sep2025 13:36:27.326] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16Sep2025 13:36:27.326] [Worker-Main-1/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16Sep2025 13:36:27.328] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[16Sep2025 13:36:28.097] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[16Sep2025 13:36:28.098] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[16Sep2025 13:36:28.408] [Worker-Main-3/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[16Sep2025 13:36:32.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[16Sep2025 13:36:32.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_villager
+[16Sep2025 13:36:32.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path8
+[16Sep2025 13:36:32.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path7
+[16Sep2025 13:36:32.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path9
+[16Sep2025 13:36:32.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_big_house1
+[16Sep2025 13:36:32.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_house5
+[16Sep2025 13:36:32.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path1
+[16Sep2025 13:36:32.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_house1
+[16Sep2025 13:36:32.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_house4
+[16Sep2025 13:36:32.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path3
+[16Sep2025 13:36:32.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_house7
+[16Sep2025 13:36:32.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_empty
+[16Sep2025 13:36:32.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_farm2
+[16Sep2025 13:36:32.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_decoration1
+[16Sep2025 13:36:32.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path2
+[16Sep2025 13:36:32.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_smoker
+[16Sep2025 13:36:32.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_decoration3
+[16Sep2025 13:36:32.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_path6
+[16Sep2025 13:36:32.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_animal_pen3
+[16Sep2025 13:36:41.734] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:36:44.875] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:36:45.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -891.500000, 64.500000, -395.500000]
+[16Sep2025 13:36:53.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[16Sep2025 13:36:53.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0
+[16Sep2025 13:36:53.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0
+[16Sep2025 13:36:53.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[16Sep2025 13:37:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to -3921.500000, 67.500000, 15511.500000]
+[16Sep2025 13:37:22.820] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:37:27.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[16Sep2025 13:37:28.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[16Sep2025 13:37:28.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[16Sep2025 13:37:28.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[16Sep2025 13:37:28.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[16Sep2025 13:37:28.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[16Sep2025 13:37:28.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[16Sep2025 13:37:28.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[16Sep2025 13:37:28.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[16Sep2025 13:37:28.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[16Sep2025 13:37:28.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[16Sep2025 13:37:28.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[16Sep2025 13:37:28.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[16Sep2025 13:37:28.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[16Sep2025 13:37:28.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[16Sep2025 13:37:28.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[16Sep2025 13:37:28.947] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[16Sep2025 13:37:28.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[16Sep2025 13:37:28.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[16Sep2025 13:37:28.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[16Sep2025 13:37:28.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[16Sep2025 13:37:29.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[16Sep2025 13:37:29.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[16Sep2025 13:37:29.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[16Sep2025 13:37:31.429] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 13:37:44.191] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[16Sep2025 13:37:44.229] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[16Sep2025 13:37:44.243] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[16Sep2025 13:37:44.251] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[16Sep2025 13:37:44.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 13:37:44.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 13:37:46.125] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_6
+[16Sep2025 13:37:46.160] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_1

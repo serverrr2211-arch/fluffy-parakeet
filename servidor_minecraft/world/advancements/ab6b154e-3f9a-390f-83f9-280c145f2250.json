@@ -27,6 +27,7 @@
       "minecraft:jungle": "2025-09-14 16:41:47 +0000",
       "minecraft:snowy_beach": "2025-09-16 02:53:58 +0000",
       "minecraft:meadow": "2025-09-09 02:30:58 +0000",
+      "minecraft:savanna": "2025-09-16 13:37:38 +0000",
       "minecraft:plains": "2025-09-09 02:15:41 +0000"
     },
     "done": false
@@ -5870,6 +5871,36 @@
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-09-16 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-16 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-16 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-16 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-09-16 13:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-16 13:37:23 +0000"
     },
     "done": true
   },
