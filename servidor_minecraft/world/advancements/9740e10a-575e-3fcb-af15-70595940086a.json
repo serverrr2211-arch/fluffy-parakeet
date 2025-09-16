@@ -8447,6 +8447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-16 22:26:22 +0000"
+    },
+    "done": true
+  },
   "alienevo:discover_priory": {
     "criteria": {
       "find_priory": "2025-09-16 21:39:27 +0000"
@@ -8511,6 +8517,12 @@
   "alienevo:discover_stronghold": {
     "criteria": {
       "find_machine_stronghold": "2025-09-16 22:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-09-16 22:26:22 +0000"
     },
     "done": true
   },
