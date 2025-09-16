@@ -8508,6 +8508,12 @@
     },
     "done": true
   },
+  "alienevo:discover_stronghold": {
+    "criteria": {
+      "find_machine_stronghold": "2025-09-16 22:19:09 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2025-09-16 21:23:15 +0000"

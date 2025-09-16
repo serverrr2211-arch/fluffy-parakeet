@@ -1157,6 +1157,7 @@
     "criteria": {
       "minecraft:pillager": "2025-09-14 16:45:56 +0000",
       "minecraft:skeleton": "2025-09-09 02:32:42 +0000",
+      "minecraft:ravager": "2025-09-16 22:19:37 +0000",
       "minecraft:vindicator": "2025-09-14 16:48:18 +0000",
       "minecraft:spider": "2025-09-13 02:39:36 +0000",
       "minecraft:creeper": "2025-09-13 03:05:43 +0000",
@@ -7256,6 +7257,36 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-09-16 22:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2025-09-16 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2025-09-16 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2025-09-16 22:22:09 +0000"
+    },
+    "done": true
+  },
+  "alienevo:discover_stronghold": {
+    "criteria": {
+      "find_machine_stronghold": "2025-09-16 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2025-09-16 22:22:09 +0000"
     },
     "done": true
   },

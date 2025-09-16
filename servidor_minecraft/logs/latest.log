@@ -8372,3 +8372,302 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [16Sep2025 22:14:32.559] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
 [16Sep2025 22:14:33.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [16Sep2025 22:14:47.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 3.620305335140074,0.5781818457213745,10.11500974473529
+[16Sep2025 22:14:54.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.880202546952205,-0.3089899890782135,4.193396692364331
+[16Sep2025 22:14:58.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.97456505937862,2.574447492033201,2.9780452366794634
+[16Sep2025 22:14:58.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[16Sep2025 22:15:00.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.816069618998426,1.3227500557005243,-4.5364141639875015
+[16Sep2025 22:15:04.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.165179601075124,-2.223920903610747,6.032545317430049
+[16Sep2025 22:15:06.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.279200785483226,-2.4275988108571056,4.859894651406648
+[16Sep2025 22:15:10.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.876486651204686,-1.0269674383413587,4.129568554064463
+[16Sep2025 22:15:14.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.915791927276587,-0.8531440738581324,4.0851793506299146
+[16Sep2025 22:15:15.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -9.922300179462127,0.6643668647180476,2.790713435457292
+[16Sep2025 22:15:19.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -8.918992036811233,0.743420201093528,5.969781439162034
+[16Sep2025 22:15:20.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -8.030637339375971,0.7017474514974822,7.507216728510684
+[16Sep2025 22:15:21.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -8.488597448702876,0.42405355973761516,6.512640991259104
+[16Sep2025 22:15:22.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -0.6004455800225514,-0.04542962619173352,10.734868736657518
+[16Sep2025 22:15:23.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -0.05842841872936333,-0.05451551514481423,10.758245687768067
+[16Sep2025 22:15:25.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 1.2553114180318516,0.051934839528584575,10.646082342351292
+[16Sep2025 22:15:26.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 9.298022875231254,0.025695267947568823,5.335608302983019
+[16Sep2025 22:15:28.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 9.62612369838871,-0.20795382904806559,4.797781765046238
+[16Sep2025 22:15:29.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 9.712774656653892,-0.19281348391074005,4.624585079829558
+[16Sep2025 22:15:30.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16775ms or 335 ticks behind
+[16Sep2025 22:15:30.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 9.712774656653892,-0.19281348391074005,4.624585079829558
+[16Sep2025 22:15:32.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 4.794678748246042,-0.1499660430416867,9.392931724501977
+[16Sep2025 22:15:35.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 0.9778900568035169,0.8259729669516958,10.646898542941926
+[16Sep2025 22:15:36.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[16Sep2025 22:15:38.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro moved too quickly! 0.0,-11.433643280623421,0.0
+[16Sep2025 22:15:45.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! 8.045897105844688,-0.5315045998958681,7.14992851263014
+[16Sep2025 22:15:47.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[16Sep2025 22:15:50.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro moved too quickly! 0.3313907006777299,-2.4495604480327557,10.758759436674154
+[16Sep2025 22:15:50.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -6.14822562679592,0.0,9.390626009560947
+[16Sep2025 22:15:52.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro moved too quickly! -0.3592658298725837,-1.6880836994027533,13.897605821715842
+[16Sep2025 22:15:52.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -0.7649747695927545,-0.14793173516630986,10.42562374327099
+[16Sep2025 22:15:57.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro moved too quickly! -4.987065173424526,-2.551654759706466,11.028622150111914
+[16Sep2025 22:15:57.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -0.9946623073965384,0.03073339081329607,10.712753030940803
+[16Sep2025 22:16:00.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -0.11334675144053108,0.4894555737105719,10.74726867490972
+[16Sep2025 22:16:04.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved too quickly! -6.13467870320892,5.26715305469483,7.042448654174223
+[16Sep2025 22:16:04.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[16Sep2025 22:16:13.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[16Sep2025 22:17:39.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:39.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:39.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:40.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:41.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3837, y=37, z=30307} BlockPos{x=-3837, y=36, z=30306}
+[16Sep2025 22:17:49.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to Galvan]
+[16Sep2025 22:17:53.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3882, y=62, z=30337} BlockPos{x=-3883, y=62, z=30337}
+[16Sep2025 22:18:22.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[16Sep2025 22:18:38.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vheedand moved wrongly!
+[16Sep2025 22:18:49.159] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 21 charcoal because there is no smelting recipe
+[16Sep2025 22:18:49.159] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 21 charcoal because there is no smelting recipe
+[16Sep2025 22:18:49.159] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 21 charcoal because there is no smelting recipe
+[16Sep2025 22:18:49.159] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 21 charcoal because there is no smelting recipe
+[16Sep2025 22:18:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Vheedand to Galvan]
+[16Sep2025 22:19:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vheedand has made the advancement [Sanctum of the Machines]
+[16Sep2025 22:19:09.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 has made the advancement [Sanctum of the Machines]
+[16Sep2025 22:19:14.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[16Sep2025 22:19:15.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro has made the advancement [Sanctum of the Machines]
+[16Sep2025 22:19:18.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63389, l='ServerLevel[world]', x=-3942.68, y=-8.13, z=30393.36] died: Machine Scout suffocated in a wall
+[16Sep2025 22:19:33.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63466, l='ServerLevel[world]', x=-3920.30, y=-1.00, z=30409.27] died: Machine Scout was slain by aleepro
+[16Sep2025 22:19:33.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63385, l='ServerLevel[world]', x=-3937.56, y=-1.00, z=30390.47] died: Machine Scout was slain by Vheedand
+[16Sep2025 22:19:37.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Machine Behemoth'/63442, l='ServerLevel[world]', x=-3935.00, y=-1.00, z=30390.00] died: Machine Behemoth was slain by Vheedand
+[16Sep2025 22:19:41.072] [Server thread/ERROR] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/ride.js#13: Error in 'ItemEvents.entityInteracted': Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.vehicle.MinecartChest,string).
+[16Sep2025 22:19:41.072] [Server thread/ERROR] [KubeJS Server/]: …rhino.EvaluatorException: Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.vehicle.MinecartChest,string). (addonpack_alienevo:kubejs_scripts/ride.js#13)
+[16Sep2025 22:19:41.072] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
+[16Sep2025 22:19:41.072] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:133)
+[16Sep2025 22:19:41.072] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:173)
+[16Sep2025 22:19:41.072] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError1(Context.java:145)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:379)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at script(addonpack_alienevo:kubejs_scripts/ride.js:13)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.doTopCall(Context.java:1374)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy55.onEvent(Unknown Source)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:272)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.item.KubeJSItemEventHandler.entityInteract(KubeJSItemEventHandler.java:57)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.EventHandlerImplCommon.eventPlayerInteractEvent(EventHandlerImplCommon.java:348)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.__EventHandlerImplCommon_eventPlayerInteractEvent_EntityInteract.invoke(.dynamic)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.TickTask.run(TickTask.java:18)
+[16Sep2025 22:19:41.073] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[16Sep2025 22:19:41.074] [Server thread/ERROR] [KubeJS Server/]:   at java.lang.Thread.run(Thread.java:840)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/ride.js#13: Error in 'ItemEvents.entityInteracted': Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.vehicle.MinecartChest,string).
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]: …rhino.EvaluatorException: Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.vehicle.MinecartChest,string). (addonpack_alienevo:kubejs_scripts/ride.js#13)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:133)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:173)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError1(Context.java:145)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:379)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at script(addonpack_alienevo:kubejs_scripts/ride.js:13)
+[16Sep2025 22:19:43.863] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.doTopCall(Context.java:1374)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy55.onEvent(Unknown Source)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:272)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.item.KubeJSItemEventHandler.entityInteract(KubeJSItemEventHandler.java:57)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.EventHandlerImplCommon.eventPlayerInteractEvent(EventHandlerImplCommon.java:348)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.__EventHandlerImplCommon_eventPlayerInteractEvent_EntityInteract.invoke(.dynamic)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+[16Sep2025 22:19:43.864] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.TickTask.run(TickTask.java:18)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[16Sep2025 22:19:43.865] [Server thread/ERROR] [KubeJS Server/]:   at java.lang.Thread.run(Thread.java:840)
+[16Sep2025 22:19:50.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63536, l='ServerLevel[world]', x=-3975.26, y=-4.00, z=30412.46] died: Machine Scout suffocated in a wall
+[16Sep2025 22:20:08.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/63508, l='ServerLevel[world]', x=-3948.24, y=-10.00, z=30400.35] died: Machine Soldier was slain by Vheedand
+[16Sep2025 22:20:09.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63390, l='ServerLevel[world]', x=-3948.30, y=-10.00, z=30404.82] died: Machine Scout was burnt to a crisp whilst fighting Vheedand
+[16Sep2025 22:20:10.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63608, l='ServerLevel[world]', x=-3948.13, y=-10.00, z=30396.17] died: Machine Warrior was slain by Vheedand
+[16Sep2025 22:20:14.613] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63732, l='ServerLevel[world]', x=-3948.50, y=-1.00, z=30442.45] died: Machine Scout was slain by aleepro
+[16Sep2025 22:20:15.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63467, l='ServerLevel[world]', x=-3943.71, y=-10.00, z=30391.78] died: Machine Scout was burnt to a crisp whilst fighting Vheedand
+[16Sep2025 22:20:15.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63645, l='ServerLevel[world]', x=-3946.33, y=-8.25, z=30396.11] died: Machine Scout was burnt to a crisp whilst fighting Vheedand
+[16Sep2025 22:20:16.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63549, l='ServerLevel[world]', x=-3945.25, y=-9.00, z=30393.20] died: Machine Scout was burnt to a crisp whilst fighting Vheedand
+[16Sep2025 22:20:17.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63639, l='ServerLevel[world]', x=-3945.59, y=-10.00, z=30390.62] died: Machine Scout was burnt to a crisp whilst fighting Vheedand
+[16Sep2025 22:20:29.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63696, l='ServerLevel[world]', x=-3973.55, y=-10.00, z=30413.08] died: Machine Warrior was slain by Naxoxh7
+[16Sep2025 22:20:33.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63730, l='ServerLevel[world]', x=-3970.53, y=-10.00, z=30442.52] died: Machine Scout was slain by Vheedand
+[16Sep2025 22:20:38.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63839, l='ServerLevel[world]', x=-3949.35, y=-10.00, z=30441.42] died: Machine Warrior was burnt to a crisp whilst fighting Vheedand
+[16Sep2025 22:20:39.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63640, l='ServerLevel[world]', x=-3974.61, y=0.00, z=30440.40] died: Machine Scout was slain by aleepro
+[16Sep2025 22:20:40.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63840, l='ServerLevel[world]', x=-3954.50, y=-9.34, z=30443.11] died: Machine Warrior was slain by Vheedand
+[16Sep2025 22:20:43.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63869, l='ServerLevel[world]', x=-3949.61, y=-10.00, z=30441.95] died: Machine Warrior was slain by Vheedand
+[16Sep2025 22:20:46.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63731, l='ServerLevel[world]', x=-3951.11, y=-9.04, z=30442.45] died: Machine Scout was slain by Vheedand
+[16Sep2025 22:20:49.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63537, l='ServerLevel[world]', x=-3953.92, y=-10.00, z=30428.62] died: Machine Scout was burnt to a crisp whilst fighting Vheedand
+[16Sep2025 22:20:57.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63921, l='ServerLevel[world]', x=-3977.53, y=-1.00, z=30417.72] died: %1$s was slain by %2$s
+[16Sep2025 22:21:01.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Machine Behemoth'/63859, l='ServerLevel[world]', x=-3975.06, y=-0.58, z=30423.02] died: Machine Behemoth was slain by aleepro
+[16Sep2025 22:21:01.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/63590, l='ServerLevel[world]', x=-3961.39, y=-10.00, z=30415.66] died: Machine Soldier was pummeled by Projectile
+[16Sep2025 22:21:10.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/63858, l='ServerLevel[world]', x=-3958.65, y=-9.09, z=30418.10] died: Machine Scout was slain by Vheedand
+[16Sep2025 22:21:10.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63991, l='ServerLevel[world]', x=-3972.71, y=-1.00, z=30419.60] died: Machine Warrior was slain by aleepro
+[16Sep2025 22:21:11.960] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63992, l='ServerLevel[world]', x=-3974.08, y=-10.00, z=30417.18] died: Machine Warrior was pummeled by Projectile
+[16Sep2025 22:21:25.568] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/64076, l='ServerLevel[world]', x=-3971.75, y=-9.31, z=30416.80] died: Machine Warrior was slain by Naxoxh7
+[16Sep2025 22:21:28.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/63926, l='ServerLevel[world]', x=-3973.53, y=-10.00, z=30420.00] died: Machine Warrior was slain by Naxoxh7
+[16Sep2025 22:21:29.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Vheedand]
+[16Sep2025 22:21:34.463] [Server thread/ERROR] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/ride.js#13: Error in 'ItemEvents.entityInteracted': Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.decoration.GlowItemFrame,string).
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]: …rhino.EvaluatorException: Can't find method net.threetag.palladium.power.ability.AbilityUtil.hasPower(net.minecraft.world.entity.decoration.GlowItemFrame,string). (addonpack_alienevo:kubejs_scripts/ride.js#13)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.DefaultErrorReporter.runtimeError(DefaultErrorReporter.java:67)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:133)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError(Context.java:173)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.reportRuntimeError1(Context.java:145)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.NativeJavaMethod.call(NativeJavaMethod.java:379)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpretLoop(Interpreter.java:986)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at script(addonpack_alienevo:kubejs_scripts/ride.js:13)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Interpreter.interpret(Interpreter.java:370)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:72)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.doTopCall(Context.java:1374)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterpretedFunction.call(InterpretedFunction.java:70)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.ArrowFunction.call(ArrowFunction.java:42)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.Context.callSync(Context.java:1357)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.InterfaceAdapter.invoke(InterfaceAdapter.java:125)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …rhino.VMBridge.lambda$newInterfaceProxy$0(VMBridge.java:74)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy55.onEvent(Unknown Source)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandlerContainer.handle(EventHandlerContainer.java:39)
+[16Sep2025 22:21:34.464] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.postToHandlers(EventHandler.java:304)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:272)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.event.EventHandler.post(EventHandler.java:226)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at …kubejs.item.KubeJSItemEventHandler.entityInteract(KubeJSItemEventHandler.java:57)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.EventHandlerImplCommon.eventPlayerInteractEvent(EventHandlerImplCommon.java:348)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at dev.architectury.event.forge.__EventHandlerImplCommon_eventPlayerInteractEvent_EntityInteract.invoke(.dynamic)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.TickTask.run(TickTask.java:18)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+[16Sep2025 22:21:34.465] [Server thread/ERROR] [KubeJS Server/]:   at java.lang.Thread.run(Thread.java:840)
+[16Sep2025 22:21:40.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/63641, l='ServerLevel[world]', x=-3953.46, y=-10.00, z=30409.48] died: Machine Soldier was slain by Naxoxh7
+[16Sep2025 22:21:42.161] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/63977, l='ServerLevel[world]', x=-3941.68, y=-9.17, z=30410.31] died: Machine Soldier was slain by aleepro
+[16Sep2025 22:21:59.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> 92.....
+[16Sep2025 22:22:05.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Vheedand> ...92...
+[16Sep2025 22:22:34.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64191, l='ServerLevel[world]', x=-3937.27, y=-10.00, z=30414.91] died: Machine Scout was burnt to a crisp whilst fighting Naxoxh7
+[16Sep2025 22:22:51.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64141, l='ServerLevel[world]', x=-3946.78, y=0.00, z=30443.46] died: Machine Scout was slain by aleepro
+[16Sep2025 22:22:52.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64140, l='ServerLevel[world]', x=-3946.35, y=0.30, z=30441.64] died: Machine Scout was slain by aleepro
+[16Sep2025 22:23:01.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Naxoxh7]
+[16Sep2025 22:23:04.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/63710, l='ServerLevel[world]', x=-3974.56, y=-10.00, z=30393.92] died: Machine Soldier was slain by aleepro
+[16Sep2025 22:23:11.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/64419, l='ServerLevel[world]', x=-3974.63, y=-10.00, z=30391.94] died: Machine Warrior was slain by aleepro
+[16Sep2025 22:23:13.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64341, l='ServerLevel[world]', x=-3973.24, y=-10.00, z=30390.78] died: Machine Scout was slain by aleepro
+[16Sep2025 22:23:20.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/64251, l='ServerLevel[world]', x=-3978.09, y=-8.63, z=30417.01] died: Machine Soldier was slain by aleepro
+[16Sep2025 22:23:23.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64488, l='ServerLevel[world]', x=-3976.37, y=-10.00, z=30415.35] died: Machine Scout was slain by aleepro
+[16Sep2025 22:23:32.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64155, l='ServerLevel[world]', x=-3952.15, y=-10.00, z=30406.50] died: Machine Scout was slain by aleepro
+[16Sep2025 22:23:33.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/64242, l='ServerLevel[world]', x=-3949.59, y=-10.00, z=30407.01] died: Machine Warrior was slain by aleepro
+[16Sep2025 22:23:35.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Naxoxh7]
+[16Sep2025 22:23:37.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Warrior'/64391, l='ServerLevel[world]', x=-3974.99, y=-10.00, z=30437.38] died: Machine Warrior was slain by aleepro
+[16Sep2025 22:23:39.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64474, l='ServerLevel[world]', x=-3975.94, y=-10.00, z=30439.60] died: Machine Scout was slain by aleepro
+[16Sep2025 22:23:40.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Soldier'/64298, l='ServerLevel[world]', x=-3970.59, y=-10.00, z=30442.13] died: Machine Soldier was slain by aleepro
+[16Sep2025 22:24:14.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported aleepro to Vheedand]
+[16Sep2025 22:24:17.611] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Machine Scout'/64683, l='ServerLevel[world]', x=-3970.03, y=-10.00, z=30443.68] died: Machine Scout was slain by Naxoxh7
+[16Sep2025 22:24:21.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported Naxoxh7 to Vheedand]
+[16Sep2025 22:24:22.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vheedand: Teleported Naxoxh7 to Vheedand]
+[16Sep2025 22:25:07.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Naxoxh7> DUERMAAAAAAAAAAAAAAAAN
