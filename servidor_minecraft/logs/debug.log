@@ -20168,3 +20168,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [16Sep2025 23:16:18.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjaxxzxx joined the game
 [16Sep2025 23:16:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
 [16Sep2025 23:16:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 23:17:12.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjaxxzxx has made the advancement [System shutdown]
+[16Sep2025 23:17:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Angel a server operator
+[16Sep2025 23:18:04.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ninjaxxzx a server operator
+[16Sep2025 23:18:24.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] escriba algo profi
+[16Sep2025 23:18:30.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ninjaxxzxx> hhola
+[16Sep2025 23:18:52.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Ninjaxxzxx a server operator
+[16Sep2025 23:19:19.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ninjaxxzxx: Teleported Ninjaxxzxx to -891.500000, 64.500000, -395.500000]
+[16Sep2025 23:19:27.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 23:19:27.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Sep2025 23:20:19.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninjaxxzxx lost connection: Disconnected
+[16Sep2025 23:20:19.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjaxxzxx left the game
+[16Sep2025 23:24:27.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Sep2025 23:24:27.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
