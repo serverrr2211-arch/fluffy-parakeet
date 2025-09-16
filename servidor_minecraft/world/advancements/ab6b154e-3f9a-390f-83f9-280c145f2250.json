@@ -6983,5 +6983,29 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2025-09-16 21:49:43 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/machined_panel": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-16 21:44:16 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/machined_metal": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-16 21:44:16 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/upgrade_crystals": {
+    "criteria": {
+      "has_upgrade_shard": "2025-09-16 21:44:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
