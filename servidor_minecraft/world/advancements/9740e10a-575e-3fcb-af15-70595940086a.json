@@ -7159,77 +7159,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_cabinet": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/birch_window": {
-    "criteria": {
-      "has_ingredient": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/all_mineshaft": {
-    "criteria": {
-      "locate_birch_mineshaft": "2025-09-16 14:03:04 +0000",
-      "locate_vanilla_mineshaft": "2025-09-16 14:15:26 +0000",
-      "locate_dark_oak_mineshaft": "2025-09-16 14:08:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dark_oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-09-16 14:07:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_table": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+      "has_carrot": "2025-09-16 13:34:49 +0000"
     },
     "done": true
   },
@@ -7251,27 +7183,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
-      "has_bookshelf": "2025-09-16 14:07:14 +0000"
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
-      "has_log": "2025-09-16 14:22:53 +0000"
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-09-16 13:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-16 13:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-09-16 13:56:46 +0000"
     },
     "done": true
   },
@@ -7281,51 +7273,71 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+      "has_item": "2025-09-16 14:02:00 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
-      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+      "has_item": "2025-09-16 14:02:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
+  "hopo:minecraft/adventure/all_mineshaft": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
+      "locate_birch_mineshaft": "2025-09-16 14:03:04 +0000",
+      "locate_vanilla_mineshaft": "2025-09-16 14:15:26 +0000",
+      "locate_dark_oak_mineshaft": "2025-09-16 14:08:33 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_birch_mineshaft": "2025-09-16 14:03:04 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_desk": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
+      "has_brick": "2025-09-16 14:03:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "has_rail": "2025-09-16 14:11:49 +0000"
+      "has_brick": "2025-09-16 14:03:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
+      "has_brick": "2025-09-16 14:03:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
+      "avoid_vibration": "2025-09-16 14:04:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_door": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
+      "has_red_mushroom": "2025-09-16 14:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-09-16 14:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-16 14:07:07 +0000"
     },
     "done": true
   },
@@ -7341,15 +7353,117 @@
     },
     "done": true
   },
-  "hopo:minecraft/adventure/locate_mineshaft": {
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
     "criteria": {
-      "locate_birch_mineshaft": "2025-09-16 14:03:04 +0000"
+      "has_bookshelf": "2025-09-16 14:07:14 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_bedside_cabinet": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
+      "has_rail": "2025-09-16 14:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-16 14:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-16 14:11:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-16 14:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-16 14:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-09-16 14:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-09-16 14:22:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-09-16 14:22:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:22:54 +0000"
     },
     "done": true
   },
@@ -7359,15 +7473,63 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_crate": {
+  "minecraft:recipes/transportation/rail": {
     "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
+      "has_minecart": "2025-09-16 14:30:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/transportation/chute_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "hoppergadgetry:recipes/transportation/grated_hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-09-16 14:30:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2025-09-16 14:33:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
@@ -7383,57 +7545,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-16 14:22:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-09-16 14:22:53 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-09-16 14:11:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-09-16 14:30:50 +0000"
     },
     "done": true
   },
@@ -7461,33 +7581,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-09-16 14:33:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-09-16 14:02:00 +0000"
     },
     "done": true
   },
@@ -7497,57 +7593,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-09-16 14:06:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-09-16 14:03:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-09-16 13:56:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-16 14:30:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-09-16 13:56:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-09-16 14:03:20 +0000"
     },
     "done": true
   },
@@ -7557,51 +7605,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_dark_oak_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-09-16 14:22:53 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_dark_oak_blinds": {
-    "criteria": {
-      "has_log": "2025-09-16 14:22:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-09-16 14:22:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-09-16 14:11:49 +0000"
-    },
-    "done": true
-  },
-  "hoppergadgetry:recipes/transportation/chute_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-16 14:30:50 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
-      "has_minecart": "2025-09-16 14:30:50 +0000"
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-09-16 14:40:48 +0000"
     },
     "done": true
   },
@@ -7617,51 +7731,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-16 14:30:50 +0000"
-    },
-    "done": true
-  },
-  "hoppergadgetry:recipes/transportation/grated_hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-09-16 14:30:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-09-16 13:34:49 +0000"
     },
     "done": true
   },
@@ -7671,81 +7743,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-09-16 13:53:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-09-16 14:04:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-09-16 14:35:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-09-16 14:03:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-16 14:40:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-09-16 14:06:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-09-16 14:02:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-09-16 13:52:37 +0000"
     },
     "done": true
   },
