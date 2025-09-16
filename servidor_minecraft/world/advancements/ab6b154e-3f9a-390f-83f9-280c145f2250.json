@@ -42,6 +42,7 @@
       "minecraft:jungle": "2025-09-14 16:41:47 +0000",
       "minecraft:ocean": "2025-09-16 17:51:28 +0000",
       "minecraft:snowy_beach": "2025-09-16 02:53:58 +0000",
+      "minecraft:windswept_savanna": "2025-09-16 22:57:16 +0000",
       "minecraft:warm_ocean": "2025-09-16 18:47:42 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-16 18:45:46 +0000",
       "minecraft:flower_forest": "2025-09-16 16:45:05 +0000",
@@ -4817,6 +4818,7 @@
     "criteria": {
       "locate_birch_mineshaft": "2025-09-16 14:03:12 +0000",
       "locate_vanilla_mineshaft": "2025-09-13 20:05:45 +0000",
+      "locate_mud_mineshaft": "2025-09-16 22:58:04 +0000",
       "locate_dark_oak_mineshaft": "2025-09-16 14:08:29 +0000"
     },
     "done": false
@@ -7278,9 +7280,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-16 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
     },
     "done": true
   },
@@ -7320,6 +7334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-09-16 22:31:00 +0000"
@@ -7338,6 +7358,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2025-09-16 22:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-16 22:27:54 +0000"
@@ -7350,6 +7400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_copper": "2025-09-16 22:22:09 +0000"
@@ -7359,6 +7415,18 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-16 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
     },
     "done": true
   },
@@ -7377,6 +7445,12 @@
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-16 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
     },
     "done": true
   },
@@ -7425,6 +7499,12 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-09-16 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-09-16 22:58:05 +0000"
     },
     "done": true
   },
