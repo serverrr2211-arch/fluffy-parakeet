@@ -2514,3 +2514,47 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [16Sep2025 03:44:49.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
 [16Sep2025 03:44:54.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninjananja lost connection: Disconnected
 [16Sep2025 03:44:54.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja left the game
+[16Sep2025 03:46:48.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Disconnected
+[16Sep2025 03:46:48.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 left the game
+[16Sep2025 03:46:59.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.70.185.191:46635] logged in with entity id 44044 at (-4412.050129809106, 62.0, 2466.2648774705376)
+[16Sep2025 03:47:00.022] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
+[16Sep2025 03:47:00.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
+[16Sep2025 03:47:00.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:47:00.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:50:14.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ninjananja[/127.175.103.74:58893] logged in with entity id 44045 at (-885.2071415679912, 62.0, -421.6616394590664)
+[16Sep2025 03:50:14.330] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Ninjananja
+[16Sep2025 03:50:14.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja joined the game
+[16Sep2025 03:50:14.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:50:14.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:50:19.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ninjananja lost connection: Disconnected
+[16Sep2025 03:50:19.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ninjananja left the game
+[16Sep2025 03:51:23.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Disconnected
+[16Sep2025 03:51:23.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 left the game
+[16Sep2025 03:51:56.728] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f56301f[id=<null>,name=Naxoxh7,properties={},legacy=false] (/127.70.185.191:39905) lost connection: Timed out
+[16Sep2025 03:51:57.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> xikos
+[16Sep2025 03:51:58.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aleepro> ke aran
+[16Sep2025 03:52:03.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Galvanic Mechamorph> ya puedo volver a casa
+[16Sep2025 03:52:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Galvanic Mechamorph> pero no se si sea fiable
+[16Sep2025 03:52:13.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Galvanic Mechamorph> con esta wea
+[16Sep2025 03:52:27.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.70.185.191:40225] logged in with entity id 44255 at (-4416.300000011921, 62.0, 2469.950330930356)
+[16Sep2025 03:52:27.921] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
+[16Sep2025 03:52:27.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
+[16Sep2025 03:52:28.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[16Sep2025 03:52:28.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[16Sep2025 03:52:51.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Galvanic Mechamorph> a
+[16Sep2025 03:54:44.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvanic Mechamorph was slain by aleepro
+[16Sep2025 03:54:48.104] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Sep2025 03:54:59.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Galvanic Mechamorph: Teleported Galvanic Mechamorph to -891.500000, 64.500000, -395.500000]
+[16Sep2025 03:55:06.381] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:55:06.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aleepro: Teleported aleepro to Galvanic Mechamorph]
+[16Sep2025 03:55:06.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Galvanic Mechamorph: Teleported aleepro to Galvanic Mechamorph]
+[16Sep2025 03:55:11.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Galvanic Mechamorph: Teleported Naxoxh7 to Galvanic Mechamorph]
+[16Sep2025 03:55:26.731] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:55:39.896] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:55:41.900] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:55:49.894] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:55:50.631] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:55:50.846] [Server thread/ERROR] [KubeJS Server/]: addonpack_grave.core:kubejs_scripts/death_no_armour.js#7: Error in 'EntityEvents.death': TypeError: Cannot call method "addTag" of null
+[16Sep2025 03:56:15.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aleepro lost connection: Disconnected
+[16Sep2025 03:56:15.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aleepro left the game
+[16Sep2025 03:56:15.408] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
