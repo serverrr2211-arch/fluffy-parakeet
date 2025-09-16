@@ -1054,6 +1054,7 @@
       "pumpkin_pie": "2025-09-13 00:41:38 +0000",
       "bread": "2025-09-09 02:26:45 +0000",
       "golden_apple": "2025-09-14 16:39:33 +0000",
+      "rotten_flesh": "2025-09-16 03:15:38 +0000",
       "golden_carrot": "2025-09-16 03:10:02 +0000",
       "carrot": "2025-09-12 02:09:44 +0000"
     },
@@ -5641,6 +5642,12 @@
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-09-16 02:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-09-16 03:15:13 +0000"
     },
     "done": true
   },
