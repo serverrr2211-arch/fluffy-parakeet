@@ -6790,21 +6790,9 @@
     },
     "done": true
   },
-  "alienevo:discover_priory": {
+  "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
-      "find_priory": "2025-09-16 18:54:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
-    "criteria": {
-      "has_item": "2025-09-16 18:49:50 +0000"
-    },
-    "done": true
-  },
-  "alienevo:recipes/upgrade_chip": {
-    "criteria": {
-      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
+      "killed_by": "2025-09-16 18:48:45 +0000"
     },
     "done": true
   },
@@ -6814,23 +6802,11 @@
     },
     "done": true
   },
-  "palladium:recipes/building_blocks/raw_titanium_block": {
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
-      "has_raw_titanium": "2025-09-16 18:57:48 +0000"
+      "has_item": "2025-09-16 18:49:50 +0000"
     },
     "done": true
-  },
-  "grave.core:recipes/titanium_ingot_from_blasting_raw_titanium": {
-    "criteria": {
-      "has_raw_titanium": "2025-09-16 18:57:48 +0000"
-    },
-    "done": true
-  },
-  "alienevo:recipes/machine_scroll": {
-    "criteria": {
-      "has_machine_key": "2025-09-16 18:58:22 +0000"
-    },
-    "done": false
   },
   "iceandfire:recipes/combat/deathworm_yellow_boots": {
     "criteria": {
@@ -6838,9 +6814,27 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
     "criteria": {
-      "killed_by": "2025-09-16 18:48:45 +0000"
+      "has_item": "2025-09-16 18:49:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-16 18:49:50 +0000"
+    },
+    "done": true
+  },
+  "alienevo:discover_priory": {
+    "criteria": {
+      "find_priory": "2025-09-16 18:54:12 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/upgrade_chip": {
+    "criteria": {
+      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
     },
     "done": true
   },
@@ -6856,9 +6850,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+  "alienevo:recipes/galvan_pod": {
     "criteria": {
-      "has_item": "2025-09-16 18:49:50 +0000"
+      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/building_blocks/raw_titanium_block": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-16 18:57:48 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_ingot_from_blasting_raw_titanium": {
+    "criteria": {
+      "has_raw_titanium": "2025-09-16 18:57:48 +0000"
     },
     "done": true
   },
@@ -6868,15 +6874,76 @@
     },
     "done": true
   },
-  "alienevo:recipes/galvan_pod": {
+  "alienevo:recipes/machine_scroll": {
     "criteria": {
-      "has_galvan_scrap": "2025-09-16 18:57:27 +0000"
+      "has_machine_key": "2025-09-16 18:58:22 +0000",
+      "has_machine_urn": "2025-09-16 18:58:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_item": "2025-09-16 18:49:50 +0000"
+      "has_smithing_trim_template": "2025-09-16 18:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-09-16 18:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-16 19:06:01 +0000"
     },
     "done": true
   },
