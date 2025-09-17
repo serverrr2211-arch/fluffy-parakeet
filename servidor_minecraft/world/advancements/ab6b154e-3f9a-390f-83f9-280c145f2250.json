@@ -7658,6 +7658,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-09-17 21:03:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_planks": "2025-09-17 21:20:00 +0000"
@@ -7697,12 +7703,6 @@
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_planks": "2025-09-17 21:20:00 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_shiraz_palace": {
-    "criteria": {
-      "location0": "2025-09-17 21:03:34 +0000"
     },
     "done": true
   },
