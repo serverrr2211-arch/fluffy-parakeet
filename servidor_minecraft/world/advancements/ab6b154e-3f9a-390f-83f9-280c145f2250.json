@@ -34,8 +34,10 @@
       "minecraft:snowy_taiga": "2025-09-16 02:53:59 +0000",
       "minecraft:grove": "2025-09-16 15:18:41 +0000",
       "minecraft:swamp": "2025-09-16 16:04:58 +0000",
+      "minecraft:jagged_peaks": "2025-09-17 20:13:13 +0000",
       "minecraft:cold_ocean": "2025-09-16 17:45:28 +0000",
       "minecraft:forest": "2025-09-10 01:04:13 +0000",
+      "minecraft:lush_caves": "2025-09-17 20:16:59 +0000",
       "minecraft:deep_cold_ocean": "2025-09-16 17:51:00 +0000",
       "minecraft:frozen_ocean": "2025-09-16 02:52:21 +0000",
       "minecraft:desert": "2025-09-16 18:47:43 +0000",
@@ -50,6 +52,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-09-16 18:45:46 +0000",
       "minecraft:flower_forest": "2025-09-16 16:45:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-16 15:03:01 +0000",
+      "minecraft:deep_dark": "2025-09-17 20:17:05 +0000",
       "minecraft:meadow": "2025-09-09 02:30:58 +0000",
       "minecraft:savanna": "2025-09-16 13:37:38 +0000",
       "minecraft:plains": "2025-09-09 02:15:41 +0000"
@@ -7538,6 +7541,120 @@
   "iceandfire:iceandfire/tame_amphithere": {
     "criteria": {
       "tame_rat": "2025-09-17 03:09:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-17 20:04:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-09-17 20:04:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-09-17 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-09-17 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-09-17 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-17 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-09-17 20:06:36 +0000"
+    },
+    "done": true
+  },
+  "alienevo:discover_ship": {
+    "criteria": {
+      "find_ship": "2025-09-17 20:13:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-09-17 20:13:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-09-17 20:13:54 +0000"
+    },
+    "done": true
+  },
+  "alienevo:recipes/prototype_omnitrix": {
+    "criteria": {
+      "has_prototype_core": "2025-09-17 20:14:14 +0000"
+    },
+    "done": true
+  },
+  "alienevo:obtain_core": {
+    "criteria": {
+      "prototype_core": "2025-09-17 20:14:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-09-17 20:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-09-17 20:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-09-17 20:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-17 20:23:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-09-17 20:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-09-17 20:26:51 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:turnoff": {
+    "criteria": {
+      "arc_upgrade": "2025-09-17 20:43:54 +0000"
     },
     "done": true
   },
