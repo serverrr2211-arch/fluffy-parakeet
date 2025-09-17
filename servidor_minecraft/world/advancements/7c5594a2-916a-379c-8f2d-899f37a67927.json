@@ -1,0 +1,101 @@
+{
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:arc_charge_block": {
+    "criteria": {
+      "arc_upgrade": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:armor_constructor": {
+    "criteria": {
+      "arc_reactor": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:ia_tarjet": {
+    "criteria": {
+      "ia tarjet": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:arc_reactor_root": {
+    "criteria": {
+      "arc_reactor": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "satsu_iron_man_addon:root": {
+    "criteria": {
+      "0": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "alienevo:alien_evolution": {
+    "criteria": {
+      "tick": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-09-17 23:31:09 +0000",
+      "inv_changed-diamond": "2025-09-17 23:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-09-17 23:31:10 +0000",
+      "minecraft:plains": "2025-09-17 23:33:32 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
