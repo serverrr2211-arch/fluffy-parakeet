@@ -7917,6 +7917,12 @@
     },
     "done": true
   },
+  "grave.core:recipes/titanium_ingot_from_titanium_block": {
+    "criteria": {
+      "has_titanium_ingot": "2025-09-17 23:40:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-09-17 22:40:08 +0000"
@@ -7950,6 +7956,18 @@
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-09-17 22:40:08 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_block": {
+    "criteria": {
+      "has_titanium_ingot": "2025-09-17 23:40:11 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_ingot_from_smelting_titanium_ore": {
+    "criteria": {
+      "has_titanium_ore": "2025-09-17 23:35:05 +0000"
     },
     "done": true
   },
@@ -8001,6 +8019,12 @@
     },
     "done": true
   },
+  "grave.core:recipes/titanium_ingot_from_blasting_titanium_ore": {
+    "criteria": {
+      "has_titanium_ore": "2025-09-17 23:35:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-09-17 23:13:41 +0000"
@@ -8046,6 +8070,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-09-17 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "grave.core:recipes/titanium_nugget": {
+    "criteria": {
+      "has_titanium_ingot": "2025-09-17 23:40:11 +0000"
     },
     "done": true
   },
