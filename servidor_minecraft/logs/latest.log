@@ -421,3 +421,12 @@
 [18Sep2025 00:21:11.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
 [18Sep2025 00:21:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
 [18Sep2025 00:21:12.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[18Sep2025 00:21:42.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Timed out
+[18Sep2025 00:21:42.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvan left the game
+[18Sep2025 00:23:01.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Naxoxh7[/127.70.185.191:35311] logged in with entity id 118568 at (-882.4517977813138, 62.0, -419.85354616614313)
+[18Sep2025 00:23:01.526] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Naxoxh7
+[18Sep2025 00:23:01.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Naxoxh7 joined the game
+[18Sep2025 00:23:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hola. Si vas a mostrar este mod en tus videos, por favor incluye el enlace de descarga a Modrinth o CurseForge en la descripción. Esto me ayuda a mantener mi trabajo gratuito y público. – soyHerios
+[18Sep2025 00:23:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hi. If you're going to feature this mod in your videos, please include the download link to Modrinth or CurseForge in the description. This helps me keep my work free and public. – soyHerios
+[18Sep2025 00:23:31.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Naxoxh7 lost connection: Timed out
+[18Sep2025 00:23:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvan left the game
