@@ -382,6 +382,7 @@
       "minecraft:skeleton": "2025-09-17 23:01:25 +0000",
       "minecraft:ravager": "2025-09-17 23:02:48 +0000",
       "minecraft:spider": "2025-09-17 23:09:48 +0000",
+      "minecraft:phantom": "2025-09-18 00:12:24 +0000",
       "minecraft:silverfish": "2025-09-17 23:01:49 +0000",
       "minecraft:zombie": "2025-09-17 23:22:09 +0000"
     },
@@ -1502,6 +1503,12 @@
       "has_string": "2025-09-17 23:09:58 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-09-18 00:12:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {

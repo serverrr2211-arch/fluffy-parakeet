@@ -691,6 +691,7 @@
       "minecraft:creeper": "2025-09-09 02:03:45 +0000",
       "minecraft:wither": "2025-09-14 17:43:54 +0000",
       "minecraft:phantom": "2025-09-09 22:50:50 +0000",
+      "minecraft:zombified_piglin": "2025-09-18 00:07:56 +0000",
       "minecraft:wither_skeleton": "2025-09-09 22:51:11 +0000",
       "minecraft:husk": "2025-09-12 02:10:00 +0000",
       "minecraft:piglin": "2025-09-14 17:19:45 +0000",
@@ -2740,9 +2741,10 @@
       "minecraft:crimson_forest": "2025-09-13 19:48:36 +0000",
       "minecraft:nether_wastes": "2025-09-09 21:48:12 +0000",
       "minecraft:soul_sand_valley": "2025-09-13 19:50:34 +0000",
-      "minecraft:basalt_deltas": "2025-09-13 19:49:32 +0000"
+      "minecraft:basalt_deltas": "2025-09-13 19:49:32 +0000",
+      "minecraft:warped_forest": "2025-09-18 00:09:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "palladium:recipes/misc/quartz_flux_capacitor": {
     "criteria": {
@@ -8874,9 +8876,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-09-18 00:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-09-18 00:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-09-18 00:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-09-18 00:10:09 +0000"
     },
     "done": true
   },
